@@ -1,4 +1,8 @@
 is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,
+False,Person,KSI,Person,Mams Taylor,Person,Greg Hardy,Person,Hasim Rahman Jr.,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Sports & Fitness Business,
+False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,
+False,Person,KSI,Person,Deji,Actor,KSI,Digital Creator,KSI,Digital Creator,Deji,Unified Twitter Taxonomy,Digital creators,
 False,Person,KSI,Person,Tommy Fury,Business Taxonomy,Sports & Fitness Business,Actor,KSI,Athlete,Tommy Fury,Digital Creator,KSI,"[0.7981, 'Tommy fury', 'Person']"
 False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,"[0.9547, 'Arsenal', 'Organization']"
 False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,"[0.9718, 'Arsenal', 'Organization']"
@@ -825,7 +829,3 @@ False,Person,KSI,Brand,Reddit,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxo
 False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.877, 'TheKSIshow', 'Other']"
 False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.5572, 'KSI', 'Other']"
 False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,
-False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.8882, 'TheKSIshow', 'Other']"
-False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.9322, 'TheKSIshow', 'Other']"
-False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.8881, 'TheKSIshow', 'Other']"
-False,Person,KSI,Actor,KSI,Digital Creator,KSI,Unified Twitter Taxonomy,KSI,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Actors,"[0.9211, 'TheKSIshow', 'Other']"

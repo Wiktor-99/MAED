@@ -1,9 +1,7 @@
 is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
-False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,Interests and Hobbies Vertical,Society,Interests and Hobbies Category,Marriage,
-False,Person,Ben Shapiro,Person,John Kerry,Politician,John Kerry,Interests and Hobbies Category,Visual arts,Interests and Hobbies,Sculpting,Unified Twitter Taxonomy,Politics,"[0.9789, 'John Kerry', 'Person']"
-False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,,,,,"[0.3796, 'NV', 'Place']"
 False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,,,,,
-False,Person,Donald Trump,Person,Ben Shapiro,Politician,Donald Trump,Unified Twitter Taxonomy,Donald Trump,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,
-False,Person,Ben Shapiro,Entities [Entity Service],Science,Interests and Hobbies Category,Weather,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Weather,Unified Twitter Taxonomy,Ben Shapiro,
-False,Person,Dina Titus,Person,Kim Schrier,Person,Steven Horsford,Person,Ben Shapiro,Events [Entity Service],2022 United States midterm elections,Politician,Dina Titus,
-False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,Unified Twitter Taxonomy,United States politics,Unified Twitter Taxonomy,United States political issues,"[0.9198, 'United States', 'Place']"
+False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,,,,,
+False,Person,Ben Shapiro,Business Taxonomy,Financial Services Business,Unified Twitter Taxonomy,Business & finance,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political issues,Unified Twitter Taxonomy,Ben Shapiro,
+False,Person,Ana Navarro,Person,Ben Shapiro,Events [Entity Service],"Florida's gubernatorial election, 2022",Political Race,"Florida's gubernatorial election, 2022",Journalist,Ana Navarro,Unified Twitter Taxonomy,Politics,
+False,Person,Ben Shapiro,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Ben Shapiro,Unified Twitter Taxonomy,Political figures,,,,,
+False,Person,Ben Shapiro,Business Taxonomy,"Beauty, Cosmetic & Personal Care Business",Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Body art,Interests and Hobbies,Tattoos,Unified Twitter Taxonomy,Politics,"[0.744, 'Face Tattoo Syndrome™', 'Other']"

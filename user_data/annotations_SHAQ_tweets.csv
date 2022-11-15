@@ -1,4 +1,6 @@
 is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Person,Shaquille O'Neal,Business Taxonomy,Sports & Fitness Business,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,Sports Personality,Sports icons,Unified Twitter Taxonomy,Shaquille O'Neal,
+False,Person,Shaquille O'Neal,TV Channels,HBO Max,Brand Vertical,Entertainment,Entities [Entity Service],TV/Movies Related - Entertainment,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Sports & Fitness Business,
 False,Person,Shaquille O'Neal,Business Taxonomy,Sports & Fitness Business,Brand,bodybuilding.com,Athlete,Shaquille O'Neal,Interests and Hobbies Vertical,Fitness,Interests and Hobbies Vertical,Wellness and health,"[0.5017, 'novexbrandpartner', 'Other']"
 False,Person,Shaquille O'Neal,Brand Vertical,Entertainment,Entities [Entity Service],TV/Movies Related - Entertainment,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Sports & Fitness Business,Brand,HBO,"[0.4774, 'SHAQ', 'Other']"
 False,Person,Shaquille O'Neal,Business Taxonomy,Sports & Fitness Business,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,Sports Personality,Sports icons,Unified Twitter Taxonomy,Shaquille O'Neal,
@@ -639,5 +641,3 @@ False,Person,Shaquille O'Neal,Person,Shareef O'Neal,Athlete,Shaquille O'Neal,Ath
 False,TV Shows,NBA Basketball,TV Shows,Live: NBA Basketball,TV Shows,NBA Basketball,Person,Shaquille O'Neal,Sport,Basketball,Sports League,NBA,"[0.7961, 'NBA Snowball', 'Other']"
 False,Person,Shaquille O'Neal,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,,,,,,,"[0.7448, 'SnoreSolve', 'Other']"
 False,Person,Shaquille O'Neal,Brand Vertical,Retail industry,Entities [Entity Service],Online - Retail,Brand,Zappos,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,"[0.5091, 'Shaq-a-', 'Other']"
-False,Person,Shaquille O'Neal,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,,,,,,,
-False,Person,Shaquille O'Neal,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,,,,,,,"[0.7094, 'Pat', 'Other']"
