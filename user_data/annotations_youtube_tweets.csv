@@ -1,0 +1,808 @@
+is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Gaming Business,Movie Genre,Sports themed films,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Sports themed films,"[0.6865, 'Primetime Channels', 'Other']"
+False,Person,MrBeast,Digital Creator,MrBeast,Unified Twitter Taxonomy,MrBeast,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,YouTubers,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8328, 'taylor', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Movie,Black Panther,Movie,Black Panther 2 ,Movie Genre,Action & adventure films,Movie Genre,Sci-fi & fantasy films,Movie Genre,Movies & TV,"[0.7546, 'WakandaForever', 'Other']"
+False,Business Taxonomy,Gaming Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],World Kindness Day,Reoccurring Trends,Kindness Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,Events,Unified Twitter Taxonomy,World Kindness Day,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Interests and Hobbies Vertical,Anime,Unified Twitter Taxonomy,Anime,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Animation & comics,Technology,Social media,"[0.7887, 'anime', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5068, 'sandcastle', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Entertainment & Leisure Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Taylor Swift,Entities [Entity Service],Services,Brand,YouTube,"[0.8177, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9694, 'YouTube', 'Other']"
+False,Person,Cassey Ho,Person,MrBeast,Person,Larray,Business Taxonomy,Sports & Fitness Business,Interests and Hobbies Vertical,Fitness,Interests and Hobbies Vertical,Wellness and health,"[0.9776, 'YouTube', 'Other']"
+False,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Food & Beverage Business,Entities [Entity Service],Food,Interests and Hobbies Category,Cooking,Interests and Hobbies,Recipes,Unified Twitter Taxonomy,Recipes,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7611, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6909, 'YouTAURB', 'Other']"
+False,Person,TommyInnit,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Twitch streamers,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.757, 'Fenitas', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6566, 'Midnights', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7263, 'TAYLOR ALISON SWIFT', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Interests and Hobbies Vertical,Drinks,Interests and Hobbies Category,Generic Drinks,Interests and Hobbies,Smoothies,Unified Twitter Taxonomy,Food,Unified Twitter Taxonomy,Drinks,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.4938, 'NAHM', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8064, 'taylor', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,"[0.9613, 'YouTube', 'Other']"
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,Halloween,"[0.7224, 'TSAntiHeroChallenge', 'Other']"
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,Halloween,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9697, 'YouTube', 'Other']"
+False,Person,MrBeast,Events [Entity Service],Halloween ,Holiday,Holidays,Digital Creator,MrBeast,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,MrBeast,"[0.7164, 'Halloween', 'Other']"
+False,Interests and Hobbies Vertical,Wellness and health,Interests and Hobbies,Self-care,Interests and Hobbies,Mindful wellness,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Mindful wellness,Technology,Social media,
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,Halloween,
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,YouTubers,"[0.51, 'Halloween', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8442, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Danny Gonzalez,Person,Danny Gonzalez,Digital Creator,Danny Gonzalez,Digital Creator,Danny Gonzalez,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Danny Gonzalez,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Swifties,Fan Community,Swifties,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.8423, 'taylor', 'Person']"
+False,Person,Technoblade,Business Taxonomy,Gaming Business,Digital Creator,Technoblade,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Gaming influencers,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Person,Taylor Swift,Events [Entity Service],Halloween ,Business Taxonomy,Entertainment & Leisure Business,Musician,Taylor Swift,Music Album,Midnights,Holiday,Holidays,"[0.7467, 'Midnights', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5716, 'Anti-Hero', 'Other']"
+False,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,,,,,"[0.7031, 'Taylor', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7955, 'DARKER DARK MODE ERA', 'Other']"
+False,Person,Arctic Monkeys,Business Taxonomy,Entertainment & Leisure Business,Musician,Arctic Monkeys,Music Genre,Rock,Unified Twitter Taxonomy,Rock,Unified Twitter Taxonomy,Music,"[0.8842, 'Kings Theatre', 'Place']"
+False,Events [Entity Service],Halloween ,Interests and Hobbies,Mukbang,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,"[0.7175, 'Halloween', 'Other']"
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.7448, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Taylor Swift,Entities [Entity Service],Services,Brand,YouTube,"[0.9807, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7099, 'TSAntiHeroChallenge', 'Other']"
+False,Events [Entity Service],Diwali,Holiday,Holidays,Holiday,Diwali,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Events,"[0.4763, 'Diwali', 'Other']"
+False,TV Shows,House of the Dragon,TV Shows,House of the Dragon,TV Episodes,The Black Queen,TV Episodes,The Black Queen,Events [Entity Service],The Black Queen,Events [Entity Service],The Black Queen,"[0.9222, 'HouseOfTheDragon', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Arctic Monkeys,Business Taxonomy,Entertainment & Leisure Business,Musician,Arctic Monkeys,Music Genre,Rock,Unified Twitter Taxonomy,Rock,Unified Twitter Taxonomy,Music,"[0.9217, 'Kings Theatre', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5555, 'bread', 'Other']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,"[0.7404, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7736, 'Anti-Hero', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.7944, 'TSAntiHeroChallenge', 'Other']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,"[0.7868, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Gaming Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Gaming Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Taylor Swift,Entities [Entity Service],Services,Brand,YouTube,"[0.8406, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8115, 'TSAntiHeroChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7432, 'CaraMakeup', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5771, 'candy', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.7297, 'CreatorSummit', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Digital Creator,Rachel and Jun,Unified Twitter Taxonomy,Rachel and Jun,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5583, 'TSAntiHeroChallenge', 'Other']"
+False,TV Shows,Dancing With the Stars,TV Shows,Dancing With the Stars,Business Taxonomy,Entertainment & Leisure Business,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Television,Unified Twitter Taxonomy,Social media,"[0.4349, 'DWTS', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Taylor Swift,Entities [Entity Service],Services,Brand,YouTube,"[0.8027, 'shorTS', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5828, 'Melt and', 'Other']"
+False,Brand Vertical,CPG,Entities [Entity Service],Snacks - CPG,Business Taxonomy,Food & Beverage Business,Brand,Jell-O,Entities [Entity Service],Food,Unified Twitter Taxonomy,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,CPG,Entities [Entity Service],Child Care - CPG,Brand,LEGO,Interests and Hobbies Vertical,Family and life stages,Unified Twitter Taxonomy,LEGO,Unified Twitter Taxonomy,Social media,"[0.6386, 'Lego', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,,,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8932, 'Trickshotparker', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Lil Baby,Business Taxonomy,Entertainment & Leisure Business,Musician,Lil Baby,Music Genre,Rap,Music Genre,Hip hop,Unified Twitter Taxonomy,Rap,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Lil Baby,Business Taxonomy,Entertainment & Leisure Business,Musician,Lil Baby,Music Genre,Rap,Music Genre,Hip hop,Unified Twitter Taxonomy,Rap,
+False,Person,Lil Baby,Entities [Entity Service],Services,Business Taxonomy,Entertainment & Leisure Business,Brand,YouTube,Product,YouTube Shorts,Musician,Lil Baby,"[0.6749, 'DoItLikeBaby', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5832, 'Tube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Entities [Entity Service],Food,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,"[0.5919, 'DoItLikeBaby', 'Other']"
+False,Events [Entity Service],International Day of the Girl 2022,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5641, 'InternationalDayOfTheGirl', 'Other']"
+False,Reoccurring Trends,#NationalComingOutDay,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.8928, 'LGBTQ+', 'Place']"
+False,Events [Entity Service],World Mental Health Day,Holiday,World Mental Health Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,World Mental Health Day,Technology,Social media,Entities [Entity Service],Services,"[0.5733, 'World Mental', 'Other']"
+False,Events [Entity Service],World Mental Health Day,Holiday,World Mental Health Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,World Mental Health Day,Technology,Social media,Entities [Entity Service],Services,"[0.8192, 'World Mental Health Day', 'Other']"
+False,Events [Entity Service],World Mental Health Day,Holiday,World Mental Health Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,World Mental Health Day,Technology,Social media,Entities [Entity Service],Services,"[0.6773, 'World Mental Health Day', 'Other']"
+False,Events [Entity Service],International Day of the World's Indigenous Peoples,Holiday,International Day of the World's Indigenous Peoples,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,
+False,Person,Lil Baby,Entities [Entity Service],Services,Business Taxonomy,Entertainment & Leisure Business,Brand,YouTube,Product,YouTube Shorts,Musician,Lil Baby,"[0.5702, 'DoItLikeBaby', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.426, 'Shorts', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,TV Genres,Talk shows,Business Taxonomy,Entertainment & Leisure Business,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Television,Unified Twitter Taxonomy,Movies & TV,Unified Twitter Taxonomy,Talk shows,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,iHasCupquake,Person,Tiffany Garcia (Cupquake),Business Taxonomy,Gaming Business,Digital Creator,iHasCupquake,Digital Creator,Tiffany Garcia (Cupquake),Unified Twitter Taxonomy,Digital creators,
+False,Business Taxonomy,Food & Beverage Business,Entities [Entity Service],Food,Interests and Hobbies Category,Cooking,Interests and Hobbies,Recipes,Entities [Entity Service],Pumpkin Spice,Entities [Entity Service],Pumpkin recipes,
+False,Interests and Hobbies,Mukbang,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Business Taxonomy,Entertainment & Leisure Business,Music Genre,Reggaeton,Music Genre,Urbano,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Reggaeton,Unified Twitter Taxonomy,Urbano,"[0.637, 'reggaeton', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Gaming Business,Video Game,EA Sports Madden NFL,Unified Twitter Taxonomy,EA Sports Madden NFL,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,Unified Twitter Taxonomy,Social media,
+False,Business Taxonomy,Gaming Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Entities [Entity Service],Mobile gaming,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,CPG,Entities [Entity Service],Child Care - CPG,Business Taxonomy,Entertainment & Leisure Business,Brand,LEGO,Interests and Hobbies Vertical,Family and life stages,Unified Twitter Taxonomy,LEGO,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Pens & stationery,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Business Taxonomy,Entertainment & Leisure Business,Business Taxonomy,Gaming Business,Multimedia Franchise,The Witcher,Unified Twitter Taxonomy,The Witcher,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Multimedia Franchise,Marvel Universe,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Marvel Universe,Unified Twitter Taxonomy,Entertainment franchises,Unified Twitter Taxonomy,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Gaming Business,Interests and Hobbies,Speedrunning,Video Game,Super Mario,Video Game,Mario Kart,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Super Mario,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Dream,Digital Creator,Dream,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,Dream,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Television,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Movies & TV,Unified Twitter Taxonomy,YouTubers,
+False,Business Taxonomy,Food & Beverage Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.7937, 'LGBTQ+', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Keke Palmer,Actor,Keke Palmer,Unified Twitter Taxonomy,Keke Palmer,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,"[0.7682, 'keke', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5801, 'Shorts', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,Unified Twitter Taxonomy,Halloween,"[0.7233, 'Halloween', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Dream,Digital Creator,Dream,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,Dream,Technology,Social media,
+False,TV Shows,Bob's Burgers,Person,John Roberts,Business Taxonomy,Entertainment & Leisure Business,Actor,John Roberts,Movie Genre,Movies & TV,Unified Twitter Taxonomy,John Roberts,"[0.9654, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Interests and Hobbies Category,Horoscope,Interests and Hobbies,Virgo,Interests and Hobbies,Libra,Unified Twitter Taxonomy,Horoscope,Unified Twitter Taxonomy,Virgo,Unified Twitter Taxonomy,Libra,"[0.4851, 'virgo', 'Other']"
+False,Person,Lauren Riihimaki,Person,LaurDIY,Digital Creator,Lauren Riihimaki,Digital Creator,LaurDIY,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Lauren Riihimaki,
+False,Person,Keke Palmer,Actor,Keke Palmer,Unified Twitter Taxonomy,Keke Palmer,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,
+False,Person,Joan Smalls,Business Taxonomy,"Textile, Apparel & Luxury Good Business",Interests and Hobbies Vertical,Fashion & beauty,Interests and Hobbies Category,Fashion models,Interests and Hobbies,Fashion,Unified Twitter Taxonomy,Fashion models,"[0.3396, 'Lee', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9818, 'YouTube', 'Other']"
+False,Person,The McElroy Family,Digital Creator,The McElroy Family,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,The McElroy Family,Technology,Social media,"[0.9693, 'Monster Factory', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9533, 'Avatar', 'Other']"
+False,Person,Jonathan Van Ness,Entertainment Personality,Jonathan Van Ness,Unified Twitter Taxonomy,Jonathan Van Ness,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,
+False,Sport,Soccer,Business Taxonomy,Sports & Fitness Business,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Social media,Technology,Social media,
+False,Person,MrBeast,Person,Noah Beck,Digital Creator,MrBeast,Digital Creator,Noah Beck,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,MrBeast,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9659, 'Avatar', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5455, 'InternationalDayofSignLanguages', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6905, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7342, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6211, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.8135, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Business Taxonomy,Entertainment & Leisure Business,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Daddy Yankee,Person,Luis Fonsi,Entities [Entity Service],Services,"[0.9705, 'Despacito', 'Other']"
+False,Person,Jackie Aina,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Jackie Aina,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Beauty influencers,Unified Twitter Taxonomy,YouTubers,
+False,Business Taxonomy,Entertainment & Leisure Business,Music Genre,Reggaeton,Music Genre,Urbano,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Reggaeton,Unified Twitter Taxonomy,Urbano,"[0.3749, 'reggaeton', 'Organization']"
+False,,,,,,,,,,,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Business Taxonomy,Entertainment & Leisure Business,Brand,YouTube,Product,YouTube Shorts,Music Album,2 Baddies,Unified Twitter Taxonomy,NCT 127,"[0.764, 'NeoSeoulChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5466, 'BiWeek', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.7537, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,,,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9774, 'YouTube', 'Other']"
+False,Person,BLACKPINK,Business Taxonomy,Entertainment & Leisure Business,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,"[0.7284, 'PinkVenomChallenge', 'Other']"
+False,Person,BLACKPINK,Business Taxonomy,Entertainment & Leisure Business,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,"[0.8253, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5405, 'RemakeTheRunway', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4972, 'Soho', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9678, 'Chris Olsen', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6971, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Entities [Entity Service],Travel,Interests and Hobbies,Travel Actions,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5618, 'parkour', 'Other']"
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,"[0.5752, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,"[0.7722, 'PinkVenomChallenge', 'Other']"
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,"[0.6895, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,"[0.8832, 'JENNIE', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,BLACKPINK,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLACKPINK,"[0.9817, 'JISOO', 'Person']"
+False,Person,BLACKPINK,Events [Entity Service],2022 MTV Video Music Awards,Musician,BLACKPINK,Music Genre,K-pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,"[0.675, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5765, 'binaural', 'Other']"
+False,Person,Lachlan,Person,AliA,Digital Creator,Lachlan,Digital Creator,AliA,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Lachlan,"[0.9634, 'YouTubeGameOn', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,BLACKPINK,Person,Matt Steffanina,Musician,BLACKPINK,Music Genre,K-pop,Digital Creator,Matt Steffanina,Unified Twitter Taxonomy,Digital creators,"[0.7637, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9611, 'YouTubeGameOn', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5026, 'backpack', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Events,Technology,Social media,Events [Entity Service],Fashion Week,Entities [Entity Service],Services,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8339, 'barbiecore', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Entities [Entity Service],Services,Brand,YouTube,Musician,BLACKPINK,"[0.7647, 'PinkVenomChallenge', 'Other']"
+False,Events [Entity Service],Back to School 2022,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6943, 'binaural', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Person,LISA,Entities [Entity Service],Services,Brand,YouTube,"[0.9547, 'LISA', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Person,ROSÉ,Entities [Entity Service],Services,Brand,YouTube,"[0.6011, 'ROSÉ', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Person,JENNIE,Entities [Entity Service],Services,Brand,YouTube,"[0.9337, 'JENNIE', 'Person']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLINK,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Fan Community,BLINK,"[0.9709, 'JISOO', 'Person']"
+False,Interests and Hobbies,Behavior around fashion,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Interests and Hobbies Category,Fashion Novelty,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLINK,Unified Twitter Taxonomy,Social media,Fan Community,BLINK,Technology,Social media,"[0.764, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLINK,Unified Twitter Taxonomy,Social media,Fan Community,BLINK,Technology,Social media,"[0.6439, 'PinkVenomChallenge', 'Other']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLINK,"[0.7358, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7175, 'QuinnsArte', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Entities [Entity Service],Services,Brand,YouTube,Musician,BLACKPINK,"[0.9464, 'Pink Venom', 'Other']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,"[0.9595, 'LISA', 'Person']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,"[0.6631, 'ROSÉ', 'Person']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,"[0.9366, 'JENNIE', 'Person']"
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,"[0.9792, 'JISOO', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8279, 'aquarium cams', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-pop,Unified Twitter Taxonomy,BLINK,"[0.5749, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6444, 'PinkVenomChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,Exercise & fitness,Exercises,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9235, 'Up Next', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5878, 'Creator Award', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9762, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Pets,Entities [Entity Service],Cats,Unified Twitter Taxonomy,Animals,Unified Twitter Taxonomy,Pets,Unified Twitter Taxonomy,Cats,Unified Twitter Taxonomy,Social media,"[0.7365, 'InternationalCatDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9499, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Music Genre,Rap,Unified Twitter Taxonomy,YouTube,"[0.5851, 'lofi', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Multimedia Franchise,The Witcher,Unified Twitter Taxonomy,The Witcher,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Multimedia Franchise,Pokémon,Unified Twitter Taxonomy,Pokémon,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Gaming,
+False,Video Game Hardware,Retro gaming,Video Game Hardware,Game Boy,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Console gaming,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Retro gaming,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Video Game,The Elder Scrolls,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,The Elder Scrolls,Unified Twitter Taxonomy,Video games,Unified Twitter Taxonomy,Social media,Technology,Social media,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Video Game,Minecraft,Unified Twitter Taxonomy,Minecraft,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Video Game,Minecraft,Unified Twitter Taxonomy,Minecraft,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,CPG,Entities [Entity Service],Child Care - CPG,Brand,LEGO,Interests and Hobbies Vertical,Family and life stages,Interests and Hobbies,Stop motion animation,Movie,RRR,
+False,Entities [Entity Service],Theme Park - Entertainment,Entities [Entity Service],Travel,Interests and Hobbies Category,Destinations,Interests and Hobbies,Theme parks,Unified Twitter Taxonomy,Theme parks,Unified Twitter Taxonomy,Walt Disney World Resort,
+False,Movie,Pirates of the Caribbean,Movie Genre,Action & adventure films,Unified Twitter Taxonomy,Action & adventure films,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Pirates of the Caribbean,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,University of California Berkeley,Colleges & Universities,University of California Berkeley,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],Pets,Entities [Entity Service],Cats,Unified Twitter Taxonomy,Animals,Unified Twitter Taxonomy,Pets,Unified Twitter Taxonomy,Cats,Unified Twitter Taxonomy,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Video Game,Tom Clancy's Rainbow Six,Unified Twitter Taxonomy,Tom Clancy's Rainbow Six,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9191, 'Theater Mode', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,,,,,,,,,,,,,"[0.5296, 'panda', 'Other']"
+False,,,,,,,,,,,,,
+False,Person,Nicki Minaj,Musician,Nicki Minaj,Music Genre,Rap,Unified Twitter Taxonomy,Nicki Minaj,Unified Twitter Taxonomy,Rap,Unified Twitter Taxonomy,Music,"[0.9036, 'Super Bass', 'Other']"
+False,TV Shows,Squid Game,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Television,Unified Twitter Taxonomy,Movies & TV,Unified Twitter Taxonomy,Dark drama,Unified Twitter Taxonomy,Drama TV,"[0.9066, 'SquidGame', 'Other']"
+False,,,,,,,,,,,,,
+False,,,,,,,,,,,,,"[0.8855, 'Daft Hands', 'Other']"
+False,,,,,,,,,,,,,
+False,Person,Justine Ezarik,Entertainment Personality,Justine Ezarik,Digital Creator,Justine Ezarik,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Justine Ezarik,,,
+False,Person,Rickey Thompson,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Famous comedians,Unified Twitter Taxonomy,Rickey Thompson,,,,,
+False,Person,JOJI,Musician,JOJI,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,JOJI,,,,,"[0.7631, 'harlem shake', 'Person']"
+False,,,,,,,,,,,,,
+False,Unified Twitter Taxonomy,YouTubers,,,,,,,,,,,"[0.8448, 'Dramatic Look', 'Other']"
+False,Unified Twitter Taxonomy,YouTubers,,,,,,,,,,,"[0.5188, 'Charlie', 'Other']"
+False,Person,Tay Zonday,Entertainment Personality,Tay Zonday,Unified Twitter Taxonomy,Tay Zonday,,,,,,,
+False,,,,,,,,,,,,,"[0.4206, 'Otters', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.775, 'panda', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,MrBeast,Digital Creator,MrBeast,Unified Twitter Taxonomy,MrBeast,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,YouTubers,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5145, 'david', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Rickey Thompson,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Famous comedians,Unified Twitter Taxonomy,Rickey Thompson,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Emma Chamberlain,Digital Creator,Emma Chamberlain,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Emma Chamberlain,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,"[0.962, 'Emma Chamberlain', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9821, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Entities [Entity Service],History,Unified Twitter Taxonomy,History,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Fields of study,Technology,Social media,Entities [Entity Service],Services,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6928, 'grwm', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7869, 'LipstickDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.522, 'RENAISSANCE', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,MrBeast,Digital Creator,MrBeast,Unified Twitter Taxonomy,MrBeast,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,YouTubers,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Podcast,Podcasts,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Entertainment news,Unified Twitter Taxonomy,Podcasts & radio,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Podcasts,"[0.7122, 'vodcast', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Aespa,Musician,Aespa,Music Genre,K-hip hop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,K-hip hop,Unified Twitter Taxonomy,Social media,"[0.5963, 'aespa', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,,,,,,,,,,,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Days of celebration,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5812, 'Dougie', 'Other']"
+False,Person,One Direction,Musician,One Direction,Music Genre,Pop,Unified Twitter Taxonomy,One Direction,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.4474, '1D', 'Other']"
+False,Person,Desus nice,Entertainment Personality,Desus nice,Unified Twitter Taxonomy,Desus nice,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Person,Rainn Wilson,Entities [Entity Service],Services,Brand,YouTube,
+False,Person,Glozell Green,Entertainment Personality,Glozell Green,Digital Creator,Glozell Green,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Glozell Green,Unified Twitter Taxonomy,Social media,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Person,Preston,Digital Creator,Preston,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Preston,Unified Twitter Taxonomy,Gaming influencers,Unified Twitter Taxonomy,Social media,
+False,Person,Vikkstar,Digital Creator,Vikkstar,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Vikkstar,Unified Twitter Taxonomy,Gaming influencers,Unified Twitter Taxonomy,Gaming content creators,
+False,Person, Bethany Mota,Digital Creator, Bethany Mota,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy, Bethany Mota,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Nicki Minaj,Person,Anitta,Musician,Nicki Minaj,Musician,Anitta,Music Genre,Rap,Music Genre,Pop,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7871, 'SpaceExplorationDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.3712, 'wander', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Entities [Entity Service],Food,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6958, '2x speed', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Interests and Hobbies Vertical,Drinks,Interests and Hobbies Category,Generic Drinks,Interests and Hobbies,Smoothies,Unified Twitter Taxonomy,Food,Unified Twitter Taxonomy,Drinks,Unified Twitter Taxonomy,Smoothies,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9622, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Psy,Entities [Entity Service],Services,Brand,YouTube,Musician,Psy,Music Genre,K-pop,Unified Twitter Taxonomy,YouTube,"[0.8751, 'Gangnam Style', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7765, 'GodOfThunder', 'Other']"
+False,Person,Lauren Riihimaki,Person,LaurDIY,Digital Creator,Lauren Riihimaki,Digital Creator,LaurDIY,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Lauren Riihimaki,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.471, 'InternationalNonBinaryDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,,,,,"[0.6125, 'BWAH', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5615, 'ASMR', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,,,,,,,,,,,,,"[0.5965, 'MyBTStory', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9083, 'YouTubeBlack', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5778, 'Wireless', 'Organization']"
+False,Person,MrBeast,Digital Creator,MrBeast,Unified Twitter Taxonomy,MrBeast,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Gaming content creators,Unified Twitter Taxonomy,YouTubers,
+False,Entities [Entity Service],Services,Brand,Google ,Product,Google brand conversation,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,"[0.4948, 'MyBTStory', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Unified Twitter Taxonomy,Events,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.4116, 'Wireless', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9072, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Lauren Riihimaki,Person,LaurDIY,Digital Creator,Lauren Riihimaki,Digital Creator,LaurDIY,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Lauren Riihimaki,"[0.5726, 'AtyVercetti', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9448, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9631, 'YouTubeBlack', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,Cities,London,"[0.5466, 'Wireless', 'Organization']"
+False,TV Shows,Stranger Things (Netflix),TV Shows,Stranger Things,TV Shows,Stranger Things,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Sci-fi & fantasy,Unified Twitter Taxonomy,Television,"[0.5787, 'Vecna', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9217, 'YouTubeBlack', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Reoccurring Trends,Social Media Day 2018,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Brand,Twitter,"[0.485, 'SocialMediaDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9643, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4713, 'MyBTStory', 'Other']"
+False,Person,Lil Baby,Musician,Lil Baby,Music Genre,Rap,Music Genre,Hip hop,Unified Twitter Taxonomy,Rap,Unified Twitter Taxonomy,Music,"[0.9741, 'UK', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.6442, 'YouTubeBlack Voices Fund', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,j-hope,Entities [Entity Service],Services,Brand,YouTube,Musician,j-hope,"[0.4939, 'jhope', 'Person']"
+False,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,,,,,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.6753, 'VidCon', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Jin,Entities [Entity Service],Services,Brand,YouTube,Musician,Jin,"[0.7969, 'Jin', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9243, 'YouTubeBlack', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Person,Jimin,Entities [Entity Service],Services,Brand,YouTube,"[0.9468, 'Jimin', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6019, 'Pride', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6869, 'WorldMusicDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Jungkook,Entities [Entity Service],Services,Brand,YouTube,Musician,Jungkook,"[0.9705, 'JungKook', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5867, 'WorldRefugeeDay', 'Other']"
+False,Events [Entity Service],Father's Day ,Holiday,Holidays,Holiday,Father's Day ,Unified Twitter Taxonomy,Parenting,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Arts and Crafts,
+False,Events [Entity Service],Juneteenth,Holiday,Juneteenth,Unified Twitter Taxonomy,Black Lives Matter,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Person,RM,Entities [Entity Service],Services,Brand,YouTube,"[0.4509, 'RM', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,SUGA,Entities [Entity Service],Services,Brand,YouTube,Musician,SUGA,"[0.5486, 'SUGA', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4794, 'ARMY', 'Organization']"
+False,Music Album,PROOF,Unified Twitter Taxonomy,BTS,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Person,V (BTS),"[0.4556, 'MyBTStory', 'Other']"
+False,Person,Gwen Stefani,Musician,Gwen Stefani,Music Genre,Pop,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Gwen Stefani,"[0.9397, 'Gwen Stefani', 'Person']"
+False,Person,Patrick Starr,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Beauty Person,Digital Creator,Patrick Starr,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Patrick Starr,"[0.5459, 'Patrick', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Kehlani,Entities [Entity Service],Services,Brand,YouTube,Musician,Kehlani,
+False,Person,Manny MUA,Digital Creator,Manny MUA,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Beauty influencers,Unified Twitter Taxonomy,YouTubers,
+False,Person,Jackie Aina,Person,Winnie Harlow,Entertainment Personality,Winnie Harlow,Interests and Hobbies Category,Fashion models,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Fashion models,"[0.8044, 'BeautyFest', 'Other']"
+False,Person,SSSniperWolf,Person,Manny MUA,Digital Creator,SSSniperWolf,Digital Creator,Manny MUA,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,"[0.515, 'BeautyFest', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6987, 'icymi', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Beyoncé,Entities [Entity Service],Services,Brand,YouTube,Musician,Beyoncé,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9112, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.7867, 'ARMY', 'Organization']"
+False,Music Album,PROOF,Unified Twitter Taxonomy,BTS,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Entities [Entity Service],Services,"[0.9329, 'BTS', 'Organization']"
+False,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Video Game,Minecraft,Unified Twitter Taxonomy,Minecraft,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,"[0.8978, 'ESCAPE2021', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Dance,Fan Community,BTS ARMY,Technology,Social media,"[0.7698, 'PermissiontoDance', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Entities [Entity Service],Services,Brand,YouTube,Musician,BTS,"[0.9104, 'BTS', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Entities [Entity Service],Services,Brand,YouTube,Musician,BTS,"[0.7603, 'BTS', 'Organization']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9773, 'BTS', 'Organization']"
+False,Person,Halsey,Person,Steve Aoki,Musician,Halsey,Musician,Steve Aoki,Musician,BTS,Music Genre,Pop,"[0.9651, 'BTS', 'Organization']"
+False,Events [Entity Service],Halloween ,Holiday,Holidays,Holiday,Halloween 2019,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Cultural events,"[0.9488, 'Go Go', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9562, 'BTS', 'Organization']"
+False,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Movies & TV,Unified Twitter Taxonomy,Movie & TV trailers,Technology,Social media,Person,BTS,"[0.9753, 'BTS', 'Organization']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9675, 'ARMY', 'Organization']"
+False,Music Album,PROOF,Unified Twitter Taxonomy,BTS,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,"[0.6014, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Markiplier,Entities [Entity Service],Services,Brand,YouTube,Digital Creator,Markiplier,
+False,Person,Jackie Aina,Person,SSSniperWolf,Person,Manny MUA,Digital Creator,SSSniperWolf,Digital Creator,Manny MUA,Unified Twitter Taxonomy,Digital creators,"[0.6356, 'BeautyFest', 'Other']"
+False,Interests and Hobbies Vertical,Wellness and health,Interests and Hobbies,Self-care,Interests and Hobbies,Mindful wellness,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Mindful wellness,Technology,Social media,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.8157, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9529, 'BTS', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Halsey,Musician,Halsey,Music Genre,Pop,Unified Twitter Taxonomy,Halsey,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.5254, 'Pride', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,BLACKPINK,Person,JISOO,Person,JENNIE,Person,ROSÉ,Person,LISA,"[0.9501, 'LISA', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6931, 'Rick', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9779, 'YouTubeTarot', 'Other']"
+False,Person,Alaska Thunderfuck,Entertainment Personality,Alaska Thunderfuck,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Alaska Thunderfuck,Unified Twitter Taxonomy,YouTubers,Technology,Social media,"[0.6865, 'Pride', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.5147, 'MyBTStory', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9604, 'ARMY', 'Organization']"
+False,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,,,,,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Entities [Entity Service],Services,Brand,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8636, 'Indonesia', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.567, 'MyBTStory', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BTS,Entities [Entity Service],Services,Brand,YouTube,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,BTS ARMY,Unified Twitter Taxonomy,Social media,Fan Community,BTS ARMY,Technology,Social media,Person,BTS,"[0.9419, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.3925, 'ARMY', 'Organization']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8811, 'YouTubePrideChallenge', 'Other']"
+False,Sports Event,"Sint Maarten vs Virgin Islands, U.S.",Person,MrBeast,Sport,Soccer,Sports League,International - Soccer,Sports League,CONCACAF Nations League,Events [Entity Service],"Sint Maarten vs Virgin Islands, U.S.","[0.6575, 'Vidcon', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,Rebecca Black,Entities [Entity Service],Services,Brand,YouTube,Musician,Rebecca Black,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9343, 'YouTubePrideChallenge', 'Other']"
+False,Events [Entity Service],National Donut Day,Unified Twitter Taxonomy,Donuts,Unified Twitter Taxonomy,Bagels,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,National Donut Day,Technology,Social media,"[0.4786, 'NationalDonutDay', 'Other']"
+False,Events [Entity Service],Pride Month,Events [Entity Service],International Pride Day,Holiday,International Pride Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,"[0.9219, 'YouTubePrideChallenge', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Events [Entity Service],Pride Month,Events [Entity Service],International Pride Day,Holiday,International Pride Day,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,"[0.8971, 'e LGBT', 'Place']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,SSSniperWolf,Digital Creator,SSSniperWolf,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,SSSniperWolf,Technology,Social media,Entities [Entity Service],Services,
+False,Events [Entity Service],Asian Pacific Asian Heritage Month 2022,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.7294, 'APAHM', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7334, 'WorldMeditationDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Person,Munya Chawawa,Entertainment Personality,Munya Chawawa,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Munya Chawawa,Technology,Social media,Entities [Entity Service],Services,"[0.976, 'YouTubeReframe', 'Other']"
+False,Person,Rihanna,Person,A$AP Rocky,Musician,Rihanna,Musician,A$AP Rocky,Music Genre,Rap,Music Genre,Pop,
+False,Interests and Hobbies Vertical,Family & relationships,Interests and Hobbies Vertical,Home and garden,Interests and Hobbies Category,Gardening,Unified Twitter Taxonomy,Family & relationships,Unified Twitter Taxonomy,Gardening,Unified Twitter Taxonomy,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9783, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Mary J Blige,Person,Saweetie,Person,Tabitha Brown,Musician,Mary J Blige,Musician,Saweetie,Music Genre,Soul music,"[0.7049, 'RecipeforChange', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,VSauce,Digital Creator,VSauce,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,VSauce,Unified Twitter Taxonomy,Social media,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7668, 'Sharkcookie', 'Other']"
+False,Movie,Doctor Strange in the Multiverse of Madness,Movie Genre,Movies & TV,Multimedia Franchise,Marvel Universe,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Marvel Universe,Unified Twitter Taxonomy,Entertainment franchises,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5445, 'hbu', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5184, 'Spring', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Interests and Hobbies Category,Horoscope,Interests and Hobbies,Taurus,Unified Twitter Taxonomy,Horoscope,Unified Twitter Taxonomy,Taurus,Entities [Entity Service],Services,Brand,YouTube,"[0.8431, 'taurus', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7787, 'mario', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,TV Shows,Stranger Things (Netflix),TV Shows,Stranger Things,TV Shows,Stranger Things,Movie Genre,Movies & TV,Unified Twitter Taxonomy,Sci-fi & fantasy,Unified Twitter Taxonomy,Television,
+False,Reoccurring Trends,Mental Health Awareness Month,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],Met Gala 2022,Interests and Hobbies Vertical,Fashion & beauty,Interests and Hobbies,Fashion,Unified Twitter Taxonomy,Fashion events,Unified Twitter Taxonomy,The Met Gala ,Unified Twitter Taxonomy,Events,"[0.8237, 'Met Gala', 'Other']"
+False,Interests and Hobbies,Bullet journaling,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Writing,Unified Twitter Taxonomy,Pens & stationery,Unified Twitter Taxonomy,Bullet journaling,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Sport,Ice Skating,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],Asian Pacific Asian Heritage Month 2022,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.5595, 'APAHM', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Makeup,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9283, 'DancingOnShorts', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Manny MUA,Digital Creator,Manny MUA,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Beauty influencers,Unified Twitter Taxonomy,YouTubers,
+False,Interests and Hobbies Vertical,Wellness and health,Interests and Hobbies,Self-care,Interests and Hobbies,Mindful wellness,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Mindful wellness,Technology,Social media,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Brand,Twitter,Unified Twitter Taxonomy,YouTube,"[0.9632, 'twitter', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.8744, 'COACHELLA', 'Other']"
+False,Person,Doja Cat,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Doja Cat,Music Genre,Pop,Concert,Coachella 2022,
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.6028, 'coachella', 'Person']"
+False,Person,Billie Eilish,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Billie Eilish,Music Genre,Pop,Music Genre,Alternative rock,"[0.6505, 'Billie', 'Person']"
+False,Entities [Entity Service],88rising,Person,Aespa,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Entities [Entity Service],88rising,Musician,Aespa,"[0.6752, 'coachella', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.5402, 'coachella', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.503, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Concert,Coachella 2022,"[0.4433, 'coachella', 'Other']"
+False,Person,Harry Styles,Person,Lizzo,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Harry Styles,Musician,Lizzo,"[0.4488, 'coachella', 'Person']"
+False,Person,Harry Styles,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Harry Styles,Concert,Coachella 2022,Unified Twitter Taxonomy,Harry Styles,"[0.3745, 'coachella', 'Other']"
+False,Person,Anitta,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Anitta,Music Genre,Pop,Music Genre,Latin pop,"[0.4188, 'coachella', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.4854, 'coachella', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.72, 'Lordthivi', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Person,Safiya Nygaard,Digital Creator,Safiya Nygaard,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Safiya Nygaard,Unified Twitter Taxonomy,YouTubers,"[0.9564, 'Safiya Nygaard', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9002, 'Nagyerdei Korisok', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Events [Entity Service],Earth Day,Holiday,Holidays,Holiday,Earth Day,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Science,Unified Twitter Taxonomy,Social media,"[0.9341, 'Non Fungible Planet', 'Other']"
+False,Person,Brad Mondo,Unified Twitter Taxonomy,Digital creators,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Beauty influencers,Unified Twitter Taxonomy,Brad Mondo,Technology,Social media,"[0.6239, 'inspo', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Quenlin Blackwell,Person,Ben De Almeida,Person,Larray,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Entertainment Personality,Quenlin Blackwell,"[0.6545, 'coachella', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.5521, 'coachella', 'Other']"
+False,Person,Doja Cat,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Doja Cat,Music Genre,Pop,Concert,Coachella 2022,"[0.4502, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.7117, 'coachella', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.4909, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Interests and Hobbies Vertical,Fitness,Interests and Hobbies Vertical,Wellness and health,Interests and Hobbies Category,Fitness,Entities [Entity Service],Exercises,"[0.5432, 'coachella', 'Person']"
+False,Person,Billie Eilish,Musician,Billie Eilish,Music Genre,Pop,Music Genre,Alternative rock,Music Album,Happier Than Ever,Unified Twitter Taxonomy,Pop,
+False,Person,Megan Thee Stallion,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Megan Thee Stallion,Concert,Coachella 2022,Unified Twitter Taxonomy,Rap,"[0.4351, 'coachella', 'Other']"
+False,Person,Flume,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Flume,Music Genre,Electronic music,Music Genre,Dance & electronic,"[0.5266, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.479, 'coachella', 'Other']"
+False,Person,Jackson (GOT7),Person,Rich Brian,Entities [Entity Service],88rising,Person,Niki Zefanya,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,"[0.4637, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.7401, 'coachella', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.5741, 'coachella', 'Person']"
+False,Person,Quenlin Blackwell,Person,Larray,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Entertainment Personality,Quenlin Blackwell,Concert,Coachella 2022,"[0.4178, 'coachella', 'Other']"
+False,Person,Harry Styles,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Harry Styles,Concert,Coachella 2022,Unified Twitter Taxonomy,Harry Styles,"[0.6569, 'COACHELLA', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.6172, 'COACHELLA', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.5015, 'coachella', 'Person']"
+False,Interests and Hobbies Vertical,Anime,Interests and Hobbies Vertical,Arts & culture,Unified Twitter Taxonomy,Anime,Unified Twitter Taxonomy,Technology,Unified Twitter Taxonomy,Animation,Unified Twitter Taxonomy,Social media,"[0.9, 'Randresson Vieira', 'Person']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.432, 'coachella', 'Other']"
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Coachella,"[0.9578, 'YouTubeCoachellaSweepstakes', 'Other']"
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Coachella,Unified Twitter Taxonomy,Music events,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4882, 'Crush', 'Other']"
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Coachella,Unified Twitter Taxonomy,Music events,
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Coachella,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,Doja Cat,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Musician,Doja Cat,Music Genre,Pop,Concert,Coachella 2022,"[0.589, 'coachella', 'Other']"
+False,Music Genre,Folk music,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Folk music,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Folk & acoustic,Technology,Social media,"[0.8824, 'Illia Bondarenko', 'Person']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5662, 'Lisie Piekł0', 'Person']"
+False,Events [Entity Service],National Pet Day,Reoccurring Trends,National Pet Day 2018,Holiday,National Pet Day,Unified Twitter Taxonomy,Pets,Unified Twitter Taxonomy,Social media,Technology,Social media,
+False,Events [Entity Service],Coachella 2022,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,"[0.9546, 'YouTubeShorts', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7188, 'Vika Bren Short', 'Other']"
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Coachella,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Ongoing News Story,Russo-Ukrainian conflict,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],World Health Day,Holiday,World Health Day,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.5002, 'WorldHealthDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9162, 'Til Dawn', 'Other']"
+False,Events [Entity Service],Coachella Watch Party with A-Trak,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,"[0.7178, 'Coachella', 'Other']"
+False,Events [Entity Service],Coachella 2022,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Shorts,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,"[0.9507, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],Coachella 2022,Concert,Coachella 2022,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music festivals,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Coachella,"[0.9625, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5196, 'AutismAwarenessDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5065, 'ArabAmericanHeritageMonth', 'Other']"
+False,Reoccurring Trends,Transgender Day of Visibility,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,
+False,Reoccurring Trends,Transgender Day of Visibility,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.5132, 'Summer Luk', 'Other']"
+False,Reoccurring Trends,Transgender Day of Visibility,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Reoccurring Trends,Transgender Day of Visibility,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,"[0.7919, '; LGB', 'Place']"
+False,Reoccurring Trends,Transgender Day of Visibility,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Events [Entity Service],The 94th Academy Awards 2022,Award Show,The 94th Academy Awards 2022,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,The Oscars,Unified Twitter Taxonomy,Entertainment events,"[0.949, 'Oscars', 'Other']"
+False,Reoccurring Trends,Women's History Month,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Reoccurring Trends,Women's History Month,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Social media,Technology,Social media,Person,BLACKPINK,Entities [Entity Service],Services,"[0.9773, 'YouTube', 'Other']"
+False,Reoccurring Trends,Women's History Month,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,"[0.9755, 'YouTube', 'Other']"
+False,Person,Diana Ross,Entities [Entity Service],Services,Brand,YouTube,Product,YouTube Music,Musician,Diana Ross,Music Genre,R&B and soul,"[0.6029, 'WomensHistoryMonth', 'Other']"
+False,Events [Entity Service],Women's History Month,Events [Entity Service],International Women's Day,Events [Entity Service],International Women's Day,Reoccurring Trends,Women's History Month,Holiday,Holidays,Holiday,International Women's Day,"[0.9856, 'YouTube', 'Other']"
+False,TV Shows,The State,Person,Kim Reynolds,Politician,Kim Reynolds,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Kim Reynolds,Unified Twitter Taxonomy,Political figures,"[0.9707, 'Kim Reynolds', 'Person']"
+False,TV Shows,The State,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,"[0.9672, 'YouTube', 'Other']"
+False,Reoccurring Trends,Women's History Month,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9708, 'Patricio Carvalho', 'Person']"
+False,Person,Trixie Mattel,Person,Safiya Nygaard,Person,TommyInnit,Person,Kurtis Conner,Entertainment Personality,Trixie Mattel,Digital Creator,Safiya Nygaard,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Person,MrBeast,Person,Victoria Volkóva,Person,Mark Rober,Person,Eugene Lee Yang,Digital Creator,MrBeast,Digital Creator,Victoria Volkóva,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.8391, 'LGBTQ+', 'Place']"
+False,Events [Entity Service],Black History Month 2022,Reoccurring Trends,Black History Month 2019,Holiday,Black History Month 2022,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,YouTubers,Technology,Social media,"[0.537, 'BlackHistoryMonth', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.9821, 'YouTube', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5892, 'Welsh', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.6363, 'Urdu', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4393, 'Turkmen', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.5023, 'InternationalMotherLanguageDay', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.7743, 'Latvian', 'Other']"
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,
+False,Unified Twitter Taxonomy,Social media,Technology,Social media,Entities [Entity Service],Services,Brand,YouTube,Unified Twitter Taxonomy,YouTube,,,"[0.4885, 'InternationalMotherLanguageDay', 'Other']"

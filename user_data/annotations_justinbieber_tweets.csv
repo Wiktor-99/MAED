@@ -1,0 +1,140 @@
+is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Video Game,Garena Free Fire,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Video games,Unified Twitter Taxonomy,Garena Free Fire,Person,Justin Bieber,Musician,Justin Bieber,"[0.4366, 'GarenaFreeFire', 'Other']"
+False,Sports Event,Winter Olympics,Sports Event,2022 Beijing Winter Olympics,Sport,Hockey,Sports Team,Canada,Sports League,2022 Beijing Winter Olympics,Events [Entity Service],2022 Beijing Winter Olympics,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,SEVENTEEN,Musician,Justin Bieber,Musician,SEVENTEEN,Music Genre,K-pop,
+False,Brand Vertical,Business & finance,Interests and Hobbies Vertical,Business & finance,Interests and Hobbies Category,Cryptocurrencies,Interests and Hobbies,Investing,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Investing,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,Hailey Bieber,Musician,Justin Bieber,Entertainment Personality,Hailey Bieber,Unified Twitter Taxonomy,Justin Bieber,"[0.4132, 'London Town', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.6383, 'Virgil', 'Person']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Brand,CBS,Brand,CBS,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,CBS,Unified Twitter Taxonomy,Events,"[0.5197, 'A Home', 'Other']"
+False,Person,Juice WRLD,Musician,Juice WRLD,Unified Twitter Taxonomy,Rap,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Juice WRLD,Unified Twitter Taxonomy,Hip hop,"[0.9393, 'LA', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Virgil Abloh,Entertainment Personality,Virgil Abloh,Unified Twitter Taxonomy,Fashion,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Celebrities,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Events [Entity Service],Christmas,Holiday,Christmas,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Holidays,Unified Twitter Taxonomy,Family & relationships,Unified Twitter Taxonomy,Christmas,"[0.6227, 'Lonely Christmas', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.5183, 'BieberWAVE', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.5409, 'BieberWave', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Brand Vertical,Business & finance,Entities [Entity Service],Credit Cards - Business & finance,Brand,American Express ,Musician,Justin Bieber,"[0.7474, 'American Express', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,Hailey Bieber,Musician,Justin Bieber,Entertainment Personality,Hailey Bieber,Unified Twitter Taxonomy,Justin Bieber,"[0.9451, 'Hailey Bieber', 'Person']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,Hailey Bieber,Musician,Justin Bieber,Entertainment Personality,Hailey Bieber,Unified Twitter Taxonomy,Justin Bieber,"[0.9451, 'Hailey Bieber', 'Person']"
+False,Person,Kanye West,Person,Drake,Musician,Kanye West,Musician,Drake,Music Genre,Rap,Unified Twitter Taxonomy,Kanye West,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Technology,Unified Twitter Taxonomy,Metaverse,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,"[0.7261, 'BieberWAVE', 'Other']"
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Technology,Unified Twitter Taxonomy,Metaverse,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,"[0.7261, 'BieberWAVE', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.7811, 'Justice World Tour', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.7966, 'Justice World Tour 2022', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,Usher,Musician,Justin Bieber,Musician,Usher,Music Genre,R&B and soul,
+False,Person,Dave Chappelle,Entertainment Personality,Dave Chappelle,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Dave Chappelle,Person,Justin Bieber,Musician,Justin Bieber,"[0.9884, 'Minneapolis', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.5214, 'BieberWAVE', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Entertainment,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Podcasts & radio,Unified Twitter Taxonomy,Married life,Person,Justin Bieber,Musician,Justin Bieber,"[0.5307, 'Hailey', 'Other']"
+False,Events [Entity Service],Christmas,Holiday,Christmas,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.9761, 'Vegas', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Diane Keaton,Actor,Diane Keaton,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Diane Keaton,Unified Twitter Taxonomy,Actors,Person,Justin Bieber,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Diane Keaton,Actor,Diane Keaton,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Diane Keaton,Unified Twitter Taxonomy,Actors,Person,Justin Bieber,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,"[0.5141, 'RED EYE', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Shaquille O'Neal,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,Unified Twitter Taxonomy,Shaquille O'Neal,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Sports,"[0.638, 'OCT', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Music Album,Purpose,Unified Twitter Taxonomy,Justin Bieber,
+False,Person,Shaquille O'Neal,Athlete,Shaquille O'Neal,Sports Personality,Shaquille O'Neal,Unified Twitter Taxonomy,Shaquille O'Neal,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Sports,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.6817, 'Medishare', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.7462, 'Ghost', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.9808, 'Haiti', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Person,Skrillex,Musician,Justin Bieber,Musician,Skrillex,Music Genre,EDM,
+False,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,"[0.7158, 'Essence', 'Other']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.9781, 'Vegas', 'Place']"
+False,Unified Twitter Taxonomy,Music,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.3816, 'VINYL', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Unified Twitter Taxonomy,Popular Videos,Person,Justin Bieber,Person,Migos,Musician,Justin Bieber,Musician,Migos,Music Genre,Rap,"[0.8293, 'Culture III', 'Other']"
+False,TV Shows,Friday,Brand Vertical,Hospitality,Entities [Entity Service],Hotel/Motel - Hospitality,Brand,Wynn Las Vegas,Brand,Encore Las Vegas,Entities [Entity Service],Travel,"[0.9897, 'Vegas', 'Place']"
+False,Unified Twitter Taxonomy,Popular Images,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Unified Twitter Taxonomy,Popular Images,Person,Justin Bieber,Person,Snoop Dogg,Person,Usher,Person,Ludacris,Musician,Justin Bieber,"[0.6927, 'Peaches', 'Other']"
+False,Events [Entity Service],JUNO Awards 2021,Award Show,JUNO Awards 2021,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Music events,Person,Justin Bieber,Musician,Justin Bieber,"[0.4555, 'JUNOS', 'Other']"
+False,Person,Justin Bieber,Entities [Entity Service],Telco,Brand,T-Mobile,Musician,Justin Bieber,Entities [Entity Service],Technology,Entities [Entity Service],Mobile,"[0.815, 'Justice World Tour 2022', 'Other']"
+False,Person,Justin Bieber,Person,DJ Khaled,Person,21 Savage,Musician,Justin Bieber,Musician,DJ Khaled,Musician,21 Savage,
+False,Person,Justin Bieber,Entities [Entity Service],Telco,Brand,T-Mobile,Musician,Justin Bieber,Entities [Entity Service],Technology,Entities [Entity Service],Mobile,"[0.778, 'Justice World Tour 2022', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.6669, 'PARIS', 'Place']"
+False,Person,Justin Bieber,Entities [Entity Service],Services,Brand,YouTube,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,YouTube,"[0.9768, 'Paris', 'Place']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,"[0.9658, 'Paris', 'Place']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.7263, 'TrillerFightClub', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.5178, 'Lonely', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Brand,Clubhouse,Unified Twitter Taxonomy,Social media,Unified Twitter Taxonomy,Clubhouse,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,
+False,Person,Quavo,Person,Tori Kelly,Person,DaBaby,Musician,Quavo,Musician,Tori Kelly,Musician,DaBaby,
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.6865, 'PEACHES', 'Other']"
+False,Brand,Vogue Magazine,Interests and Hobbies Category,Fashion Brand,Person,Justin Bieber,Brand,Vogue Magazine,Musician,Justin Bieber,Interests and Hobbies Category,Fashion Novelty,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.5206, 'Red Eye', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,
+False,Person,Justin Bieber,Person,Daniel Caesar,Musician,Justin Bieber,Musician,Daniel Caesar,Music Genre,R&B and soul,Unified Twitter Taxonomy,Justin Bieber,"[0.4551, 'PEACHES', 'Other']"
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,
+False,Unified Twitter Taxonomy,Beliebers,Fan Community,Beliebers,Person,Justin Bieber,Musician,Justin Bieber,Music Genre,Pop,Unified Twitter Taxonomy,Justin Bieber,"[0.5295, 'Peaches', 'Other']"
+False,Person,Justin Bieber,Musician,Justin Bieber,Unified Twitter Taxonomy,Justin Bieber,Unified Twitter Taxonomy,Pop,Unified Twitter Taxonomy,Music,,,"[0.9063, 'JusticeTheAlbum', 'Other']"

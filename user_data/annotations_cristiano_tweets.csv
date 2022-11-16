@@ -1,0 +1,848 @@
+is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Person,Cristiano Ronaldo,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Financial Services Business,Business Taxonomy,Sports & Fitness Business,Business Taxonomy,Technology Business,Entities [Entity Service],Binance Coin cryptocurrency,Brand,Binance,"[0.7535, 'NFT', 'Other']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.4471, 'Selecção Nacional', 'Other']"
+False,TV Shows,Premier League,Sports Event,Manchester United vs Leicester City,Sports Event,Manchester United vs Brentford FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,
+False,TV Shows,Premier League,Sports Event,Manchester United vs Leicester City,Sports Event,Manchester United vs Brentford FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,"[0.9634, 'Asia', 'Place']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,"[0.9165, 'Portugal', 'Place']"
+False,Sports Event,Real Sociedad vs Manchester United,Person,Cristiano Ronaldo,Sports League,International Clubs - Soccer,Sports League,UEFA Europa League,Events [Entity Service],Real Sociedad vs Manchester United,Soccer Match,Real Sociedad vs Manchester United,
+False,TV Shows,Premier League,Sports Event,Manchester United vs West Ham United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.4752, 'WellDoneLads', 'Other']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.6553, 'LiveScore', 'Other']"
+False,Sports Event,Manchester United vs FC Sheriff Tiraspol,Person,Cristiano Ronaldo,Sports League,International Clubs - Soccer,Sports League,UEFA Europa League,Events [Entity Service],Manchester United vs FC Sheriff Tiraspol,Soccer Match,Manchester United vs FC Sheriff Tiraspol,"[0.932, 'United', 'Organization']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.7199, 'Theragun', 'Other']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Sports Event,Manchester United vs AC Omonia Nicosia,Person,Cristiano Ronaldo,Sports League,International Clubs - Soccer,Sports League,UEFA Europa League,Events [Entity Service],Manchester United vs AC Omonia Nicosia,Soccer Match,Manchester United vs AC Omonia Nicosia,"[0.8881, 'mufc', 'Organization']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.5908, 'ClearxCR7', 'Person']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,TV Shows,The 700 Club,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,"[0.8338, 'United', 'Organization']"
+False,TV Shows,Premier League,Sports Event,Everton FC vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,
+False,Sports Event,Czech Republic vs Portugal,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,Sports League,UEFA Nations League,
+False,Person,Cristiano Ronaldo,Sport,Cricket,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Sports Event,FC Sheriff Tiraspol vs Manchester United,Person,Cristiano Ronaldo,Sports League,International Clubs - Soccer,Sports League,UEFA Europa League,Events [Entity Service],FC Sheriff Tiraspol vs Manchester United,Soccer Match,FC Sheriff Tiraspol vs Manchester United,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Manchester United vs Arsenal FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.6003, 'Devils', 'Other']"
+False,TV Shows,Premier League,Sports Event,Leicester City vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.9683, 'mufc', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Southampton FC vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.9652, 'mufc', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3033, 'MLR', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Binance Coin cryptocurrency,Brand,Binance,Athlete,Cristiano Ronaldo,Interests and Hobbies Category,Cryptocurrencies,Unified Twitter Taxonomy,Soccer,"[0.6163, 'NFT', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3471, 'MLR', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.837, 'Marcelo', 'Person']"
+False,Sports Event,Portugal vs Czech Republic,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,Sports League,UEFA Nations League,"[0.868, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Portugal vs Switzerland,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,Sports League,UEFA Nations League,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,English Premier League Soccer,TV Shows,Barclays Premier League Football,TV Shows,Barclays Premier League Soccer,TV Shows,Premier League,Person,Cristiano Ronaldo,Sport,Soccer,"[0.6629, 'Premier League', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Manchester United vs Chelsea FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.765, 'Old Trafford', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6433, 'Dalot', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9307, 'LiveScore', 'Other']"
+False,Sports Event,Portugal vs Turkey,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,Sports League,"WC Qualification, UEFA","[0.929, 'Mundial 2022', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service],Father's Day 2020,Events [Entity Service],Father's Day ,Athlete,Cristiano Ronaldo,Holiday,Father's Day ,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Manchester United,"[0.899, 'United', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,English Premier League Soccer,TV Shows,UEFA Champions League Soccer,TV Shows,Barclays Premier League Football,TV Shows,UEFA Champions League Football,TV Shows,Barclays Premier League Soccer,TV Shows,UEFA Champions League Soccer,"[0.9633, 'Premier League', 'Organization']"
+False,TV Shows,Premier League,Sports Event,Manchester United vs Brighton & Hove Albion,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.4392, 'Devils', 'Other']"
+False,TV Shows,Premier League,Sports Event,Manchester United vs Southampton FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.9199, 'mufc', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Gaming,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Brentford FC vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Music,Unified Twitter Taxonomy,Sports,"[0.7814, 'BTS', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Family and life stages,Interests and Hobbies Category,Motherhood,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,TV Shows,Premier League,Sports Event,Manchester United vs Burnley FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.9069, ' #MU', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3698, 'Università eCampus', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4528, 'Jason', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Manchester United vs Brighton & Hove Albion,Person,Cristiano Ronaldo,Person,Alex Ferguson,Sport,Soccer,Sports League,England - Soccer,"[0.6561, 'Alex', 'Person']"
+False,TV Shows,Premier League,Sports Event,Manchester United vs Brighton & Hove Albion,Person,Cristiano Ronaldo,Person,Alex Ferguson,Sport,Soccer,Sports League,England - Soccer,"[0.4338, 'Alex', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Norwich City vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.5178, 'Devils', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Hair care,Interests and Hobbies,Dandruff Care,Unified Twitter Taxonomy,Soccer,"[0.4043, 'dandruff', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Person,Michael Carrick,"[0.9814, 'Michael Carrick', 'Person']"
+False,TV Shows,Premier League,Sports Event,Manchester United vs Arsenal FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,Premier League,Sports Event,Chelsea FC vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.8968, 'United', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Manchester United,"[0.767, 'Old Trafford', 'Place']"
+False,TV Shows,Premier League,Sports Event,Watford FC vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,"[0.9343, 'MUFC', 'Organization']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,Unified Twitter Taxonomy,Soccer,"[0.9408, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Sports,"[0.9081, 'Kungfu Dash', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7806, 'CR7Drive', 'Person']"
+False,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Sports Event,Atalanta BC vs Manchester United,Person,Cristiano Ronaldo,"[0.9583, 'MUFC', 'Organization']"
+False,TV Shows,Premier League,Sports Event,Tottenham Hotspur vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,England - Soccer,Sports League,Premier League,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,
+False,Sports Event,Manchester United vs Atalanta BC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Manchester United vs Atalanta BC,"[0.6654, 'Theater Of Dreams', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7018, 'HerbalifeNutrition', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Drinks,Interests and Hobbies Category,Generic Drinks,Interests and Hobbies,Coffee,Unified Twitter Taxonomy,Soccer,"[0.8651, 'CR7UNDERWEAR', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3508, 'West', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,News Vertical,US national news,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,Unified Twitter Taxonomy,Soccer,"[0.806, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7444, 'Mundial do Catar', 'Other']"
+False,TV Shows,English Premier League Soccer,TV Shows,Barclays Premier League Football,TV Shows,Barclays Premier League Soccer,TV Shows,Premier League,Person,Cristiano Ronaldo,Sport,Soccer,"[0.9367, 'Premier League', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5807, 'CR7 Game On', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.494, 'CR7 Eyewear', 'Person']"
+False,TV Shows,Premier League,Sports Event,West Ham United vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,Europe - Soccer,Sports League,England - Soccer,"[0.9294, 'mufc', 'Organization']"
+False,Sports Event,Young Boys vs Manchester United,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,"[0.9677, 'mufc', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6369, 'Guiness World Records', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Entities [Entity Service],Sports/Outdoor - Fashion,"[0.3522, 'nikefootball', 'Other']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.9355, 'Madeira island', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6136, 'CR7PLAYITCOOL', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5841, 'MoreThanAScore', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9587, 'Times Square', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Entities [Entity Service],Sports/Outdoor - Fashion,"[0.5726, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Portugal vs France,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,Europe - Soccer,Sports League,International - Soccer,
+False,Sports Event,Portugal vs France,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,Europe - Soccer,Sports League,International - Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Popular Images,"[0.6791, 'Papá', 'Person']"
+False,Sports Event,Hungary vs Portugal,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,Europe - Soccer,Sports League,International - Soccer,"[0.4836, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Popular Images,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Popular Images,"[0.5662, 'European Championships', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Unified Twitter Taxonomy,Popular Images,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.2806, 'campeoesdaeuropa', 'Person']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Careers,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Careers,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Inter Milan,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Inter Milan,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Parma Calcio,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Parma Calcio,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Genoa,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Genoa,
+False,Sports Event,Juventus vs Napoli,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Napoli,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5405, 'Campeonato do Mundo', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.5151, 'forzajuve', 'Other']"
+False,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4902, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Spezia,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Spezia,
+False,Sports Event,Juventus vs Crotone,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Crotone,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5596, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Napoli vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Napoli vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,UEFA Champions League Football,TV Shows,Live: Coppa Italia Football,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,Coppa Italia,
+False,Sports Event,Juventus vs Roma,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Roma,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Sampdoria vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Sampdoria vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Bologna,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Bologna,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.9532, 'Italy', 'Place']"
+False,Sports Event,Juventus vs Sassuolo,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Sassuolo,
+False,Sports Event,AC Milan vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],AC Milan vs Juventus,
+False,Sports Event,Juventus vs Udinese,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Udinese,
+False,Person,Cristiano Ronaldo,Events [Entity Service],New Years Eve,Events [Entity Service],Happy New Year,Athlete,Cristiano Ronaldo,Holiday,New Years Eve,Holiday,Happy New Year,"[0.7657, 'SIXPAD', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service],New Years Eve,Events [Entity Service],Happy New Year,Athlete,Cristiano Ronaldo,Holiday,New Years Eve,Holiday,Happy New Year,"[0.9916, 'COVID-19', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9938, 'Dubai', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.6566, 'Globe Soccer Player Of', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service],Christmas,Athlete,Cristiano Ronaldo,Holiday,Christmas,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,"[0.4281, 'Funchal', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service],Christmas,Athlete,Cristiano Ronaldo,Holiday,Christmas,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,Sports Event,Dijon vs Monaco,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,France - Soccer,Sports League,Ligue 1,Events [Entity Service],Dijon vs Monaco,"[0.8119, 'Champion Promenade', 'Other']"
+False,Sports Event,Parma Calcio vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Parma Calcio vs Juventus,"[0.4099, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4513, 'HerbalifeNutrition', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Athlete,Gennady Golovkin,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Gennady Golovkin,
+False,Sports Event,Juventus vs Atalanta,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Atalanta,"[0.613, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.672, 'France Football', 'Organization']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.7348, 'Globe Soccer', 'Other']"
+False,Sports Event,Genoa vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Genoa vs Juventus,"[0.9799, 'Juventus', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Barcelona vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Barcelona vs Juventus,"[0.9589, 'Spain', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.659, 'Agnelli', 'Person']"
+False,Sports Event,Juventus vs Torino,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Torino,
+False,Sports Event,Juventus vs Dynamo Kiev,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Juventus vs Dynamo Kiev,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Beauty,"[0.8217, 'Legendshampoo', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Ferencvarosi,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Juventus vs Ferencvarosi,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,"[0.6926, 'SIXPAD HOME GYM', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3738, 'todosportugal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5937, 'Alana', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Lazio vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Lazio vs Juventus,"[0.6514, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5269, 'ComeBackStronger', 'Other']"
+False,Sports Event,Ferencvarosi vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Ferencvarosi vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Spezia vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Spezia vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Barcelona,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,International Clubs - Soccer,Sports League,UEFA Champions League,Events [Entity Service],Juventus vs Barcelona,"[0.8697, 'a Ju', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5207, 'todosportugal', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Careers,Interests and Hobbies,Behavior around fashion,"[0.6052, 'nikefootball', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Family & relationships,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.5456, 'HerbalifeNutrition', 'Other']"
+False,Sports Event,Roma vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Roma vs Juventus,"[0.6145, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Sampdoria,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Sampdoria,"[0.4806, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.5006, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9785, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6357, 'Family', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Portugal,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Hair care,Interests and Hobbies,Dandruff Care,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,UEFA Champions League Soccer,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League Soccer,TV Shows,UEFAチャンピオンズリーグ,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,"[0.845, 'UCL', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4993, 'Sikathabis', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5831, 'Eyewear Collection', 'Other']"
+False,Sports Event,Juventus vs Lazio,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Lazio,"[0.7962, 'FinoAllaFine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Family & relationships,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Atalanta,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Atalanta,"[0.8339, 'FinoAllaFine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9408, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Torino,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Torino,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7623, 'Panita', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Lecce,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Lecce,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6776, 'torino', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.7178, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5766, 'D', 'Other']"
+False,Sports Event,Juventus vs AC Milan,Person,Cristiano Ronaldo,Sports League,Coppa Italia,Events [Entity Service],Juventus vs AC Milan,Soccer Match,Juventus vs AC Milan,Athlete,Cristiano Ronaldo,"[0.6994, 'FinoAllaFine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Reoccurring Trends,#MotivationMonday,"[0.5273, 'Competition', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7141, 'Eva', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Family & relationships,Interests and Hobbies Vertical,Wellness and health,Entities [Entity Service],Holistic healing/nutrition,Interests and Hobbies,Healthy Eating,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Family & relationships,Interests and Hobbies Vertical,Wellness and health,Interests and Hobbies Category,Physical Wellness,Entities [Entity Service],Working Out,"[0.5028, 'EMS', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Entities [Entity Service],Food,Entities [Entity Service],Meals,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7488, 'madeiraisland', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3425, 'Clear', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5692, '14', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5559, 'livingroomcup', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Careers,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFAチャンピオンズリーグ,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,UEFA Champions League,"[0.854, 'UCL', 'Other']"
+False,Sports Event,SPAL vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],SPAL vs Juventus,"[0.8141, 'UCL', 'Other']"
+False,Person,Kylian Mbappe,Person,Cristiano Ronaldo,Person,Sam Kerr,Person,Barbara Bonansea,Sport,Soccer,Athlete,Kylian Mbappe,"[0.863, 'Mercurial Dream Speed', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Entities [Entity Service],Food,Entities [Entity Service],Meals,Entities [Entity Service],Lunch,Unified Twitter Taxonomy,Soccer,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Fiorentina,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Fiorentina,"[0.7889, 'bianconeri', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.5265, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Person,Kobe Bryant,Sport,Basketball,Athlete,Cristiano Ronaldo,Athlete,Kobe Bryant,Unified Twitter Taxonomy,Soccer,"[0.942, 'Kobe', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5538, 'Charging', 'Person']"
+False,Sports Event,Juventus vs Parma,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Parma,"[0.3414, 'forzajuve', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs Cagliari,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Cagliari,"[0.5199, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service], New Years Eve,Athlete,Cristiano Ronaldo,Holiday, New Years Eve,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,"[0.4469, 'forzajuve', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service], New Years Eve,Events [Entity Service],Happy New Year: It’s finally 2020 everywhere!,Athlete,Cristiano Ronaldo,Holiday, New Years Eve,Holiday,Happy New Year: It’s finally 2020 everywhere!,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Sport,Soccer,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.8912, 'Globe Soccer Award', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Person,Novak Djokovic,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Person,Novak Djokovic,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,
+False,Sports Event,Sampdoria vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Sampdoria vs Juventus,"[0.9221, 'CR7', 'Person']"
+False,Sports Event,Juventus vs Udinese,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Udinese,"[0.4171, 'forzajuve', 'Other']"
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Sports Event,Bayer Leverkusen vs Juventus,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,Europe - Soccer,"[0.951, 'championsleague', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Lazio vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Lazio vs Juventus,"[0.5931, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.9664, 'Juventus', 'Organization']"
+False,Sports Event,Atalanta vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Atalanta vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5467, 'todosporportugal', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Sports Event,Juventus vs AC Milan,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs AC Milan,
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFAチャンピオンズリーグ,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,UEFA Champions League,"[0.5044, 'ucl', 'Organization']"
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,UEFA Champions League,Athlete,Cristiano Ronaldo,"[0.9486, 'Champions League', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.5399, 'The', 'Other']"
+False,Person,Cristiano Ronaldo,Events [Entity Service],Halloween 2019,Athlete,Cristiano Ronaldo,Holiday,Halloween 2019,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,"[0.6626, 'Halloween', 'Other']"
+False,Sports Event,Juventus vs Genoa,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Genoa,
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFAチャンピオンズリーグ,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,UEFA Champions League,"[0.7955, 'ucl', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,"[0.3724, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4044, 'todosportugal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9638, 'Madeira Island', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7458, 'seleção nacional', 'Organization']"
+False,Sports Event,Inter vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Inter vs Juventus,"[0.4194, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.345, 'forzajuve', 'Other']"
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports League,UEFA Champions League,Athlete,Cristiano Ronaldo,"[0.9613, 'Champions League', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies,Behavior around fashion,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.4674, 'Mercurial', 'Other']"
+False,Sports Event,Juventus vs SPAL,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs SPAL,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.7113, 'amador', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.6699, 'finoallafine', 'Other']"
+False,TV Shows,When Piers Met,TV Episodes,Cristiano Ronaldo Meets Piers Morgan,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Sports Team,Juventus FC,"[0.4451, 'UCL', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,"[0.8928, 'SIXPAD', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6431, 'georgina', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.6721, 'CR7PlayItCool', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Interests and Hobbies Vertical,Family & relationships,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9227, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.4014, 'dandruff', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.3546, 'Insparya', 'Other']"
+False,Sports Event,Parma vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Parma vs Juventus,"[0.4785, 'forzajuve', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,Events [Entity Service],Brazil's President Bolsonaro claims NGOs may be burning the Amazon,"[0.6717, 'Amazon Rainforest', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,,,"[0.9734, 'Sweden', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Serie A,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Serie A,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.6347, 'Mercurial', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Serie A,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.41, 'Menshampoo', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Brand,MARCA,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,"[0.4702, 'Leyenda', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.971, 'China', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,Sports Team,Juventus FC,Unified Twitter Taxonomy,Juventus FC,,,"[0.6427, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.9824, 'China', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,Sports Team,Juventus FC,Unified Twitter Taxonomy,Juventus FC,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.8905, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),"[0.6348, 'CR7', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.7008, 'Singapore Olympic Foundation', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,Entities [Entity Service],Travel,Interests and Hobbies,Travel Actions,Entities [Entity Service],Travel Actions,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,"[0.804, 'France Riviera', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,TV Shows,Live: UEFA Nations League Football,Sports Event,Portugal vs Netherlands,Person,Cristiano Ronaldo,Sports League,UEFA Nations League,Events [Entity Service],UEFA Nations League,Events [Entity Service],Portugal vs Netherlands,"[0.4743, 'copa de Itália', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Portugal vs Switzerland,Person,Cristiano Ronaldo,Sports League,UEFA Nations League,Events [Entity Service],Portugal vs Switzerland,Soccer Match,Portugal vs Switzerland,Athlete,Cristiano Ronaldo,"[0.9487, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4606, 'cr7footwear', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Person,Neymar ,Athlete,Neymar ,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Place,Portugal,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Place,Dubai,Entities [Entity Service],Travel,Interests and Hobbies Category,Destinations,,,"[0.9939, 'Dubai', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Place,England,Place,Spain,Place,Italy,,,"[0.9844, 'Inglaterra', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Juventus vs Atalanta,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Atalanta,"[0.7155, 'Serie A', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Fitness,Entities [Entity Service],Exercises,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Book Genre,Comics,Movie Genre,Animated films,,,,,"[0.3986, 'FCBD', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Chicago,Athlete,Cristiano Ronaldo,Entities [Entity Service],Food,Entities [Entity Service],Meals,Entities [Entity Service],Dinner,"[0.5215, 'Chicago green', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9527, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Juventus vs Fiorentina,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Fiorentina,
+False,Sports Event,Juventus vs Fiorentina,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Fiorentina,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Category,General Fashion,Interests and Hobbies,Shoes,Unified Twitter Taxonomy,Fashion,Unified Twitter Taxonomy,Shoes,"[0.7535, 'CR7 Footwear', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Sports Team,Juventus FC,,,,,,,"[0.4531, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Entities [Entity Service],Food,Entities [Entity Service],Meals,Entities [Entity Service],Lunch,Unified Twitter Taxonomy,Food,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Kylian Mbappe,Person,Cristiano Ronaldo,Sport,Soccer,Athlete,Kylian Mbappe,Athlete,Cristiano Ronaldo,Person,Kylian Mbappe,"[0.5236, 'Nike Mercurial Superfly 360', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.8226, 'SS19', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Place,Madrid,,,,,,,"[0.8002, 'Madrid', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.3225, 'Capilar', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Napoli vs Juventus,Person,Cristiano Ronaldo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Napoli vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Place,Portugal,,,,,,,"[0.9532, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Juventus vs Frosinone,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Frosinone,Soccer Match,Juventus vs Frosinone,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4635, 'CR7 Fragrance', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.715, 'EMS', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Dubai,Athlete,Cristiano Ronaldo,,,,,,,"[0.9955, 'Dubai', 'Place']"
+False,Sports Event,Juventus vs Parma Calcio,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Parma Calcio,Soccer Match,Juventus vs Parma Calcio,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4621, 'Dios', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Juventus vs Chievo,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Chievo,Soccer Match,Juventus vs Chievo,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,"[0.9708, 'Juventus', 'Organization']"
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Perfumes & fragrances,Interests and Hobbies,Body sprays and deodorant,Entities [Entity Service],Beauty (Media Understanding Media Classifications),"[0.6123, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7167, 'MJLiving', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Events [Entity Service],The World Welcomes the New Year,Holiday,The World Welcomes the New Year,"[0.3384, 'Funchal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Atalanta vs Juventus,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Atalanta vs Juventus,Soccer Match,Atalanta vs Juventus,
+False,Events [Entity Service],Christmas 2018,Holiday,Christmas 2018,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,"[0.5854, 'Natal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7673, 'CR7CrunchFitness', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6612, 'PlayLikeCristiano', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,FC Torino vs Juventus,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],FC Torino vs Juventus,Soccer Match,FC Torino vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,TV Shows,UEFA Champions League Football,TV Shows,UEFA Champions League: TSG 1899 Hoffenheim-Liverpool FC,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Manchester United,Sports League,UEFA Champions League,"[0.9622, 'Moscow', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Fiorentina vs Juventus,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Fiorentina vs Juventus,Soccer Match,Fiorentina vs Juventus,"[0.4767, 'finoallafine', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],Black Friday 2018,Events [Entity Service],Black Friday 2018,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,"[0.5133, 'CRFragrances', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6246, 'CLEARMen', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Entities [Entity Service],Food,Entities [Entity Service],Meals,Entities [Entity Service],Dinner,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Milan vs Juventus,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Milan vs Juventus,Soccer Match,Milan vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Event,Juventus vs Cagliari,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Juventus vs Cagliari,Soccer Match,Juventus vs Cagliari,
+False,Person,Cristiano Ronaldo,Place,Portugal,Athlete,Cristiano Ronaldo,,,,,,,"[0.8428, 'Liga Portuguesa', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],Halloween 2018,Holiday,Halloween 2018,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,"[0.7375, 'Halloween', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6407, 'pestanacr7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,TV Shows,Barclays Premier League Football,Sports Event,Empoli vs Juventus,Sports League,Europe - Soccer,Sports League,Italy - Soccer,Sports League,Serie A,Events [Entity Service],Empoli vs Juventus,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],Brazil General Elections 2018,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.9741, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,News Vertical,Sports news,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,"[0.3934, 'Rape', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.9403, 'Built On Dreams', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.5803, 'CH. 7', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Video Game,FIFA,Video Game,FIFA 19,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,"[0.9328, 'FIFA19', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Video Game,FIFA,Video Game,FIFA 19,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,"[0.9444, 'FIFA19', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.4514, 'CR7Underwear', 'Person']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.539, 'UEFA', 'Organization']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.7818, 'Herbalife24', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Sportswear,Athlete,Cristiano Ronaldo,"[0.5836, 'nikesportswear', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,"[0.9609, 'Juventus', 'Organization']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.6988, 'Concrete Mercurial Superfly 360', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Shaving and grooming,Interests and Hobbies,Grooming,"[0.8372, 'CR7', 'Person']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Place,Portugal,Place,Lisbon,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,"[0.3517, 'pestana', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Place,China,"[0.968, 'China', 'Place']"
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,"[0.9756, 'Nike', 'Organization']"
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Place,China,"[0.566, 'Active Schools', 'Other']"
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,"[0.934, 'NikeFootball', 'Organization']"
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Place,China,"[0.9837, 'China', 'Place']"
+False,Sports Team,Real Madrid CF,Video Game,FIFA,Video Game,FIFA 19,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,"[0.4439, 'Bianconero', 'Person']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Place,Europe,Place,London,Place,United Kingdom,Athlete,Cristiano Ronaldo,"[0.4658, 'Advanced SIXPAD', 'Other']"
+False,Sports Team,Real Madrid CF,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike - World Cup Campaign,Person,Cristiano Ronaldo,Place,China,"[0.9738, 'China', 'Place']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Sports Team,Juventus FC,Athlete,Cristiano Ronaldo,,,,,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.6113, 'MTG', 'Other']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.9016, 'Portugal', 'Place']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.7012, 'WhatsYourSleepScore', 'Other']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.5066, 'Mercurial', 'Other']"
+False,TV Shows,Barclays Premier League Football,Sports Event,2018 FIFA World Cup,Sports Event,Portugal at Iran,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,TV Shows,Barclays Premier League Football,Sports Event,2018 FIFA World Cup,Sports Event,Morocco at Portugal,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.6866, 'World Blood Donor', 'Other']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.9414, 'FIFA19', 'Other']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,"[0.8219, 'AmericanTourister', 'Other']"
+False,Sports Event,2018 FIFA World Cup,Sport,Soccer,Sports Team,Portugal,Sports Team,Real Madrid CF,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.6775, 'nikefootball', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.5368, 'VMS', 'Organization']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.5266, 'Eva', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.5173, 'HerbalifeNutrition', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.9692, 'Nike', 'Organization']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,TV Shows,UEFA Champions League Football,Sports Event,Liverpool at Real Madrid,Sports Team,Real Madrid CF,Sports League,UEFA Champions League,Events [Entity Service],Liverpool at Real Madrid,Soccer Match,Liverpool at Real Madrid,"[0.9759, 'Nike', 'Organization']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.4023, 'NIKEFOOTBALL', 'Other']"
+False,Sports Team,Real Madrid CF,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.9244, 'Kiev', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7443, 'Elma Aveiro', 'Other']"
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Training,Athlete,Cristiano Ronaldo,,,"[0.9817, 'Nike', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4244, 'HerbalifeNutrition', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Portugal,Place,Lisbon,Athlete,Cristiano Ronaldo,,,,,"[0.669, 'Funchal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5525, 'A_New_Generation_Of_Steel', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Person,Enrique Iglesias,Place,Lisbon,Musician,Enrique Iglesias,Music Genre,Pop,Athlete,Cristiano Ronaldo,"[0.9584, 'Lisboa', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9678, 'Madeira Island', 'Place']"
+False,Sports Event,2018 FIFA World Cup,Events [Entity Service],2018 FIFA World Cup,Sports Series,2018 FIFA World Cup,Person,Cristiano Ronaldo,Place,Russia,Brand Vertical,Entertainment,"[0.9814, 'Russia', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,Athlete,Cristiano Ronaldo,"[0.7996, 'Nikefootball', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6776, 'UCL', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,Interests and Hobbies Category,Hospitality,Interests and Hobbies,Hotel/Motel,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7422, 'Cristiano', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.8605, 'Al Ain Al Sokhna', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5426, 'able2uk', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,News Vertical,Sports news,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,"[0.707, 'AmericanTourister', 'Other']"
+False,News Vertical,Sports news,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Events [Entity Service],Easter 2018,Holiday,Easter 2018,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6093, 'HerbalifeNutrition', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Sport,Soccer,Sports Team,Portugal,Person,Cristiano Ronaldo,Place,Portugal,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,"[0.9314, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4289, '360', 'Other']"
+False,Person,Cristiano Ronaldo,Place,Spain,Place,Madrid,Athlete,Cristiano Ronaldo,,,,,"[0.6372, 'Madrid', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Brand Vertical,Government/Education,Entities [Entity Service],Non-profit - Government/Education,Brand,Save the Children,Athlete,Cristiano Ronaldo,,,"[0.3943, '7WordsForSyria', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4259, 'ClearMen', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,Athlete,Cristiano Ronaldo,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.582, 'SS18', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6166, 'SS18', 'Other']"
+False,Person,Cristiano Ronaldo,Place,Paris,Athlete,Cristiano Ronaldo,,,,,,,"[0.9726, 'Paris', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Lisbon,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,Interests and Hobbies Category,Hospitality,Interests and Hobbies,Hotel/Motel,"[0.8574, 'Lisbon', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,TV Shows,Liga BBVA,Person,Cristiano Ronaldo,Sports Team,Real Madrid CF,Sports League,La Liga,Athlete,Cristiano Ronaldo,,,"[0.9478, 'Liga Española', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5454, 'Egyptian_Steel', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5003, 'BornMercurial', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Brand Vertical,Government/Education,Entities [Entity Service],Non-profit - Government/Education,Brand,Save the Children,Athlete,Cristiano Ronaldo,,,"[0.9257, 'Rohingya', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6682, 'CR7Denim', 'Person']"
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football,Athlete,Cristiano Ronaldo,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.3766, 'AF1', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,TV Shows,NFL Football,TV Episodes,Philadelphia Eagles vs. New England Patriots,Sports Event,Super Bowl 52: Eagles vs. Patriots,Sports League,NFL,American Football Game,Super Bowl 52: Eagles vs. Patriots,NFL Football Game,Super Bowl 52: Eagles vs. Patriots,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6247, 'CR7Fragrance', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4539, 'CR7', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7598, 'RMTV', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7698, 'Vitoria', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Brand Vertical,Entertainment,Entities [Entity Service],Video Games - Entertainment,Brand,FIFA,Athlete,Cristiano Ronaldo,Video Game,FIFA,"[0.9557, 'FIFA18', 'Other']"
+False,Person,Cristiano Ronaldo,Sports Team,Real Madrid CF,Athlete,Cristiano Ronaldo,,,,,,,"[0.6785, 'Laureus Sportsman', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4831, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.6327, 'CR7', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6436, 'pestanacr7lisbon', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9308, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6036, 'PestanaCR7Funchal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9184, 'CR7Denim', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6154, 'Natal', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5031, 'Egyptian_Steel', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5071, 'CR7Fragrance', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4329, ' #Abbo', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7069, 'Champions of', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,Athlete,Cristiano Ronaldo,"[0.51, 'Mercurial', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,Athlete,Cristiano Ronaldo,"[0.4939, 'Mercurial Quinto Triunfo', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,Athlete,Cristiano Ronaldo,"[0.8977, 'CR7', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.4254, 'AF1', 'Other']"
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.4995, 'Air Force 1', 'Product']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4496, 'ROC', 'Organization']"
+False,Person,Cristiano Ronaldo,Place,Madrid,Athlete,Cristiano Ronaldo,Reoccurring Trends,#TBT (Throwback Thursday),,,,,"[0.9658, 'Madrid', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6747, 'CR7 Denim', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4264, 'SportsBar', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6788, 'ROC', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Europe,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football (US),Product,Nike Football,"[0.4915, 'Mercurial', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.8572, 'FIFA Mobile', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5017, 'Alana Martina', 'Other']"
+False,,,,,,,,,,,,,"[0.7494, 'CR7 Suite', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.5818, 'Genes', 'Other']"
+False,Sport,Soccer,Sports Team,Portugal,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,"[0.6536, 'Mundial', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7672, 'CR7Junior', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6095, 'CR7Junior', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Product,Nike Football,Athlete,Cristiano Ronaldo,,,"[0.6091, 'CR7', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.8419, 'ROCliveLifeLoud', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,Interests and Hobbies Vertical,Beauty,Interests and Hobbies Category,Hair care,Interests and Hobbies,Shampoo,,,"[0.624, 'CLEAR Men', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7701, 'CR7', 'Person']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9921, 'Madeira', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Place,Lisbon,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,Interests and Hobbies Category,Hospitality,Interests and Hobbies,Hotel/Motel,"[0.9802, 'Lisbon', 'Place']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Sports Team,Real Madrid CF,Athlete,Cristiano Ronaldo,,,,,,,"[0.9613, 'Real Madrid', 'Organization']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.5178, 'Air Max 97', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.4216, 'Air Max 97', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4813, 'CR7Challenge', 'Other']"
+False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6271, '7egend', 'Other']"
