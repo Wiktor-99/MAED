@@ -24,7 +24,7 @@ False,2022-06-23 19:46:10+00:00,Sprinklr,False,ratios build character,en,1,0,0,0
 False,2022-04-01 17:50:07+00:00,Twitter Web App,False,we are working on an edit button,en,1,0,0,0,0,0.0,116396,62729,1313132,134312
 False,2022-03-30 16:30:38+00:00,Sprinklr,False,you good?,en,1,0,0,0,0,0.7,41536,61375,481541,50114
 False,2022-03-23 20:02:12+00:00,Sprinklr,False,now you can search for really important things in your DMs https://t.co/pZP6TMYyEN,en,1,1,0,0,0,0.4,2427,2303,27344,1374
-False,2022-02-17 22:20:46+00:00,Twitter Web App,False,https://t.co/824UoJmqtx,zxx,0,1,0,0,0,0.0,721,1044,5394,86
+False,2022-02-17 22:20:46+00:00,Twitter Web App,False,https://t.co/824UoJmqtx,zxx,0,1,0,0,0,2.0,721,1044,5394,86
 False,2022-02-17 19:01:44+00:00,Sprinklr,False,we asked the engineers if we could pin a DM and they said NO! YOU CAN PIN SIX!,en,1,0,0,0,0,0.0,4443,4210,46567,2030
 False,2022-02-16 20:09:57+00:00,Sprinklr,False,laughing but crying,en,1,0,0,0,0,-0.2,14095,4029,92098,2535
 False,2022-02-14 01:01:53+00:00,Twitter Web App,False,this Tweet is our Super Bowl commercial,en,1,0,0,0,0,0.16666666666666666,3529,2046,47146,285
@@ -32,7 +32,7 @@ False,2022-02-11 12:55:37+00:00,Sprinklr,False,"oh good you're up, here are a mi
 False,2022-02-08 16:13:31+00:00,Sprinklr,False,"you ever think about Fleets? 
 same.",en,1,0,0,0,0,0.0,12250,12024,117444,25611
 False,2022-01-20 18:46:54+00:00,Sprinklr,False,"gm, looking for an nft pfp",de,1,0,0,0,0,0.0,5610,15789,51128,6634
-False,2022-01-18 13:15:10+00:00,Twitter Web App,False,https://t.co/4FoQ6qbQWn,zxx,0,1,0,0,0,0.0,4260,2013,26805,12995
+False,2022-01-18 13:15:10+00:00,Twitter Web App,False,https://t.co/4FoQ6qbQWn,zxx,0,1,0,0,0,2.0,4260,2013,26805,12995
 False,2022-01-18 13:15:06+00:00,Twitter Web App,False,"📍 Los Angeles, CA https://t.co/oquJcqUzkR",es,1,1,0,0,1,0.0,14380,869,94210,1937
 False,2022-01-18 13:15:05+00:00,Twitter Web App,False,"📍 Los Angeles, CA https://t.co/lqRfzPHkkQ",es,1,1,0,0,1,0.0,1078,153,13293,106
 False,2022-01-18 13:15:03+00:00,Twitter Web App,False,"📍 Los Angeles, CA https://t.co/PwK7CnaUuh",es,1,1,0,0,1,0.0,928,86,13189,57
@@ -75,7 +75,7 @@ False,2021-09-02 16:11:25+00:00,Sprinklr,False,"we were rooting for you, septemb
 False,2021-08-11 17:13:35+00:00,Twitter Web App,False,okay confirmed it did,en,1,0,0,0,0,0.45,2720,2124,40934,1714
 False,2021-08-11 17:11:47+00:00,Sprinklr,False,wait did our font change?,fr,1,0,0,0,0,0.0,11198,14724,96950,25210
 False,2021-08-03 17:24:55+00:00,Sprinklr,False,if you see a Fleet no you didn't https://t.co/4rKI7f45PL,en,1,1,0,0,0,0.0,12557,4243,77098,6812
-False,2021-07-16 15:46:33+00:00,Sprinklr,False,https://t.co/VpfGjBO7LF,zxx,0,1,0,0,0,0.0,2415,2213,30836,443
+False,2021-07-16 15:46:33+00:00,Sprinklr,False,https://t.co/VpfGjBO7LF,zxx,0,1,0,0,0,2.0,2415,2213,30836,443
 False,2021-07-14 17:28:53+00:00,Sprinklr,False,"we're removing Fleets on August 3, working on some new stuff
 
 we're sorry or you're welcome",en,1,0,0,0,0,0.14545454545454548,73834,27026,484179,126432
@@ -140,7 +140,7 @@ False,2021-03-17 19:06:25+00:00,Sprinklr,False,"#StopAsianHate
 #StopAsianHate
 #StopAsianHate
 #StopAsianHate
-#StopAsianHate",qht,0,0,1,1,0,0.0,71006,4652,198061,4204
+#StopAsianHate",qht,0,0,1,1,0,2.0,71006,4652,198061,4204
 False,2021-03-12 16:26:48+00:00,Twitter Web App,False,0 days since someone asked for an edit button,en,1,0,0,0,0,0.0,52154,22797,667179,20980
 False,2021-03-11 15:00:40+00:00,Sprinklr,False,"We’re working on something we think you’ll love — Twitter Spaces!
 
@@ -163,16 +163,16 @@ False,2021-02-03 16:19:19+00:00,Sprinklr,False,it's ok to Tweet before you text 
 False,2021-02-02 15:46:00+00:00,Sprinklr,False,5 likes is a lot,en,1,0,0,0,0,0.0,68408,22761,940541,21664
 False,2021-01-01 14:56:49+00:00,Twitter Web App,False,"the bar is low, 2021",en,1,0,0,0,0,0.0,91488,10602,741166,7183
 False,2020-12-22 15:02:22+00:00,Sprinklr,False,roast 2020. go.,en,1,0,0,0,0,0.0,14570,30634,139175,6358
-False,2020-12-21 23:21:20+00:00,Twitter for iPhone,False,🗣 @_major_williams https://t.co/hqS0XRDQJG,und,0,1,0,0,1,0.0,4037,878,30345,421
-False,2020-12-21 23:21:19+00:00,Twitter for iPhone,False,🗣 @rynfitz https://t.co/Imy12dEThs,und,0,1,0,0,1,0.0,2122,495,22536,136
-False,2020-12-21 23:21:18+00:00,Twitter for iPhone,False,🗣 @_aanittangele https://t.co/4Kto7VP11u,und,0,1,0,0,1,0.0,1029,223,11825,64
-False,2020-12-21 17:15:17+00:00,Twitter for iPhone,False,🗣 @denzeldion https://t.co/TbWF2Nu868,und,0,1,0,0,1,0.0,2786,230,24868,149
-False,2020-12-21 17:15:16+00:00,Twitter for iPhone,False,🗣 @fatihaxuddin https://t.co/L5didoUR7E,und,0,1,0,0,1,0.0,4163,355,26321,411
-False,2020-12-21 17:15:15+00:00,Twitter for iPhone,False,🗣 @omoalufaaa https://t.co/dhqsyUrk7P,und,0,1,0,0,1,0.0,6119,231,31466,497
-False,2020-12-21 17:15:13+00:00,Twitter for iPhone,False,🗣 @angiecthomas https://t.co/IuZCfe2vGI,und,0,1,0,0,1,0.0,1635,51,10456,120
-False,2020-12-21 17:15:11+00:00,Twitter for iPhone,False,🗣 @lauren_lablue https://t.co/gbzG3ukvxK,und,0,1,0,0,1,0.0,2515,176,18072,510
-False,2020-12-21 17:15:10+00:00,Twitter for iPhone,False,🗣 @renaissance1018 https://t.co/wnWAn6VtVS,und,0,1,0,0,1,0.0,963,68,8553,71
-False,2020-12-21 17:15:08+00:00,Twitter for iPhone,False,🗣 @dionnewarwick https://t.co/Hrl3QTnFIP,und,0,1,0,0,1,0.0,50318,2207,316558,3140
+False,2020-12-21 23:21:20+00:00,Twitter for iPhone,False,🗣 @_major_williams https://t.co/hqS0XRDQJG,und,0,1,0,0,1,2.0,4037,878,30345,421
+False,2020-12-21 23:21:19+00:00,Twitter for iPhone,False,🗣 @rynfitz https://t.co/Imy12dEThs,und,0,1,0,0,1,2.0,2122,495,22536,136
+False,2020-12-21 23:21:18+00:00,Twitter for iPhone,False,🗣 @_aanittangele https://t.co/4Kto7VP11u,und,0,1,0,0,1,2.0,1029,223,11825,64
+False,2020-12-21 17:15:17+00:00,Twitter for iPhone,False,🗣 @denzeldion https://t.co/TbWF2Nu868,und,0,1,0,0,1,2.0,2786,230,24868,149
+False,2020-12-21 17:15:16+00:00,Twitter for iPhone,False,🗣 @fatihaxuddin https://t.co/L5didoUR7E,und,0,1,0,0,1,2.0,4163,355,26321,411
+False,2020-12-21 17:15:15+00:00,Twitter for iPhone,False,🗣 @omoalufaaa https://t.co/dhqsyUrk7P,und,0,1,0,0,1,2.0,6119,231,31466,497
+False,2020-12-21 17:15:13+00:00,Twitter for iPhone,False,🗣 @angiecthomas https://t.co/IuZCfe2vGI,und,0,1,0,0,1,2.0,1635,51,10456,120
+False,2020-12-21 17:15:11+00:00,Twitter for iPhone,False,🗣 @lauren_lablue https://t.co/gbzG3ukvxK,und,0,1,0,0,1,2.0,2515,176,18072,510
+False,2020-12-21 17:15:10+00:00,Twitter for iPhone,False,🗣 @renaissance1018 https://t.co/wnWAn6VtVS,und,0,1,0,0,1,2.0,963,68,8553,71
+False,2020-12-21 17:15:08+00:00,Twitter for iPhone,False,🗣 @dionnewarwick https://t.co/Hrl3QTnFIP,und,0,1,0,0,1,2.0,50318,2207,316558,3140
 False,2020-12-16 23:22:28+00:00,Sprinklr,False,We’re switching back. You can now choose to Retweet or Quote Tweet the way you did before. https://t.co/4ZAE6Ax8Vn,en,1,1,0,0,0,0.0,50522,13993,190884,41099
 False,2020-12-10 19:02:30+00:00,Sprinklr,False,There’s more! We’ll also be testing sharing Tweets to IG Stories to a small % so keep an eye out,en,1,0,0,0,0,0.1875,465,465,4768,424
 False,2020-12-10 18:02:50+00:00,Sprinklr,False,"Oh snap! 👻
@@ -254,7 +254,7 @@ False,2020-06-19 21:12:30+00:00,Twitter Web App,False,"📍 Atlanta
 🗣️ @BerniceKing https://t.co/83upyVnwIS",lt,1,1,0,0,1,0.0,3291,178,15206,145
 False,2020-06-19 21:12:30+00:00,Twitter Web App,False,"📍 Minneapolis
 🗣️ @FredTJoseph https://t.co/lNTOkyguG1",et,1,1,0,0,1,0.0,8072,1998,46965,644
-False,2020-06-19 12:31:50+00:00,Twitter Web App,False,https://t.co/dW21f1XQvy,zxx,0,1,0,0,0,0.0,453,152,2389,29
+False,2020-06-19 12:31:50+00:00,Twitter Web App,False,https://t.co/dW21f1XQvy,zxx,0,1,0,0,0,2.0,453,152,2389,29
 False,2020-06-19 12:29:43+00:00,Twitter for iPhone,False,"Today is #Juneteenth 
 
 We’re honored to have @opalayo, one of the three Black women who co-founded #BlackLivesMatter, speak on the meaning of this day, this moment, and where we go from here. https://t.co/0XwuQXM0tS",en,1,1,1,1,0,-0.16666666666666666,1218,430,5050,140
@@ -334,7 +334,7 @@ False,2020-04-07 15:10:53+00:00,Twitter Web App,False,"Over the past few weeks, 
 See the answers👇",en,1,0,1,1,1,0.1375,6519,869,36884,506
 False,2020-04-06 18:29:36+00:00,Sprinklr,False,Mood check. GIFs only.,en,1,0,0,0,0,0.0,7124,33374,80578,12658
 False,2020-04-01 14:02:09+00:00,Sprinklr,False,It’s not March.,en,1,0,0,0,0,0.0,32043,5396,199418,3433
-False,2020-03-30 15:38:03+00:00,Sprinklr,False,💙 #NationalDoctorsDay,und,0,0,1,1,1,0.0,16783,1547,58253,1297
+False,2020-03-30 15:38:03+00:00,Sprinklr,False,💙 #NationalDoctorsDay,und,0,0,1,1,1,2.0,16783,1547,58253,1297
 False,2020-03-20 15:02:35+00:00,Sprinklr,False,"Who needs something? 
 Who can give something? 
 
@@ -379,47 +379,47 @@ Tweet us.",en,1,0,0,0,0,-0.07142857142857142,3068,2406,28741,476
 False,2019-12-18 20:25:54+00:00,Sprinklr,False,"Long URLs, no longer. Starting today, when you share a list on Twitter, it'll have an image instead of a URL on iOS and Android. Here’s ours. Your turn.
 
 https://t.co/W7dxU8ZOiP",en,1,1,0,0,0,-0.025,793,494,4305,143
-False,2019-12-16 18:31:39+00:00,Twitter for iPhone,False,🎩🐰 https://t.co/lEq6dtdZbz https://t.co/tJBOoA2Qp7,und,0,1,0,0,1,0.0,1246,550,10881,126
+False,2019-12-16 18:31:39+00:00,Twitter for iPhone,False,🎩🐰 https://t.co/lEq6dtdZbz https://t.co/tJBOoA2Qp7,und,0,1,0,0,1,2.0,1246,550,10881,126
 False,2019-12-13 18:46:06+00:00,Sprinklr,False,The one person you wish would follow you,en,1,0,0,0,0,0.0,11145,53324,97834,16517
 False,2019-12-11 18:16:06+00:00,Twitter Media Studio,False,Give the gift of GIFs. You can now upload your iOS Live Photos as GIFs anywhere you upload photos on Twitter. https://t.co/D8TIfsBwyd,en,1,1,0,0,0,0.13636363636363635,1151,435,4529,439
 False,2019-12-09 20:03:18+00:00,Twitter Web App,False,"2⃣0⃣1⃣0⃣➖2⃣0⃣1⃣9⃣ 🧵
 https://t.co/dxbS0dh52y",und,1,1,0,0,1,0.0,342,138,2322,11
 False,2019-12-09 20:03:08+00:00,Twitter Web App,False,"🕯️
-https://t.co/xVAnRruJwH",und,0,1,0,0,1,0.0,121,61,1039,5
+https://t.co/xVAnRruJwH",und,0,1,0,0,1,2.0,121,61,1039,5
 False,2019-12-09 20:02:59+00:00,Twitter Web App,False,"🚿
-https://t.co/xDasPvtGhB",und,0,1,0,0,1,0.0,86,82,701,4
+https://t.co/xDasPvtGhB",und,0,1,0,0,1,2.0,86,82,701,4
 False,2019-12-09 20:02:49+00:00,Twitter Web App,False,"🗺️ 
-https://t.co/0Fm3IG413v",und,0,1,0,0,1,0.0,130,135,1361,30
+https://t.co/0Fm3IG413v",und,0,1,0,0,1,2.0,130,135,1361,30
 False,2019-12-09 20:02:39+00:00,Twitter Web App,False,"💃
-https://t.co/MT28usvrq2",und,0,1,0,0,1,0.0,58,30,528,1
+https://t.co/MT28usvrq2",und,0,1,0,0,1,2.0,58,30,528,1
 False,2019-12-09 20:02:31+00:00,Twitter Web App,False,"✈️
-https://t.co/ocDcJSBxDL",und,0,1,0,0,1,0.0,56,26,509,3
+https://t.co/ocDcJSBxDL",und,0,1,0,0,1,2.0,56,26,509,3
 False,2019-12-09 20:02:21+00:00,Twitter Web App,False,"🌟
-https://t.co/8juB9ivtNL",und,0,1,0,0,1,0.0,84,32,913,3
+https://t.co/8juB9ivtNL",und,0,1,0,0,1,2.0,84,32,913,3
 False,2019-12-09 20:02:10+00:00,Twitter Web App,False,"💕
-https://t.co/RT9cSqckX4",und,0,1,0,0,1,0.0,105,46,1294,10
+https://t.co/RT9cSqckX4",und,0,1,0,0,1,2.0,105,46,1294,10
 False,2019-12-09 20:01:59+00:00,Twitter Web App,False,"÷
 https://t.co/VlLd8g2RZq",und,1,1,0,0,0,0.0,101,206,783,23
 False,2019-12-09 20:01:49+00:00,Twitter Web App,False,"🌰
-https://t.co/slgt8RhA6j",und,0,1,0,0,1,0.0,28,22,333,4
+https://t.co/slgt8RhA6j",und,0,1,0,0,1,2.0,28,22,333,4
 False,2019-12-09 20:01:37+00:00,Twitter Web App,False,"😎
-https://t.co/VN024fJxGt",und,0,1,0,0,1,0.0,52,24,501,1
+https://t.co/VN024fJxGt",und,0,1,0,0,1,2.0,52,24,501,1
 False,2019-12-09 20:01:27+00:00,Twitter Web App,False,"💒
-https://t.co/r6OIjrJPqr",und,0,1,0,0,1,0.0,122,26,918,15
+https://t.co/r6OIjrJPqr",und,0,1,0,0,1,2.0,122,26,918,15
 False,2019-12-09 20:01:16+00:00,Twitter Web App,False,"🧼
-https://t.co/e2P5BZmf39",und,0,1,0,0,1,0.0,37,30,526,11
+https://t.co/e2P5BZmf39",und,0,1,0,0,1,2.0,37,30,526,11
 False,2019-12-09 20:01:06+00:00,Twitter Web App,False,"💌
-https://t.co/J78vLMvZGa",und,0,1,0,0,1,0.0,78,22,911,9
+https://t.co/J78vLMvZGa",und,0,1,0,0,1,2.0,78,22,911,9
 False,2019-12-09 20:00:57+00:00,Twitter Web App,False,"🎓
-https://t.co/2tUNTXsesP",und,0,1,0,0,1,0.0,125,24,1306,6
+https://t.co/2tUNTXsesP",und,0,1,0,0,1,2.0,125,24,1306,6
 False,2019-12-09 20:00:47+00:00,Twitter Web App,False,"🤳
-https://t.co/pfGJDtWeEY",und,0,1,0,0,1,0.0,109,57,1926,10
+https://t.co/pfGJDtWeEY",und,0,1,0,0,1,2.0,109,57,1926,10
 False,2019-12-09 20:00:37+00:00,Twitter Web App,False,"💅
-https://t.co/ilLZiNsvDf",und,0,1,0,0,1,0.0,88,33,1027,8
+https://t.co/ilLZiNsvDf",und,0,1,0,0,1,2.0,88,33,1027,8
 False,2019-12-09 20:00:26+00:00,Twitter Web App,False,"💔
-https://t.co/eTdlQPePBb",und,0,1,0,0,1,0.0,73,21,965,3
+https://t.co/eTdlQPePBb",und,0,1,0,0,1,2.0,73,21,965,3
 False,2019-12-09 20:00:15+00:00,Twitter Web App,False,"😂
-https://t.co/bGXoApySSR",und,0,1,0,0,1,0.0,119,38,1236,11
+https://t.co/bGXoApySSR",und,0,1,0,0,1,2.0,119,38,1236,11
 False,2019-12-09 20:00:06+00:00,Twitter Web App,False,"Favorite Tweets of the year? 
  
 We’ll start. Here’s our 19 for 2019 👇
@@ -488,7 +488,7 @@ False,2019-07-23 19:00:28+00:00,Twitter Web App,False,Can’t decide between a R
 False,2019-07-22 18:38:22+00:00,Twitter Web Client,False,Who’s someone you met on Twitter but want to MEET meet?,en,1,0,0,0,0,0.0,3990,12471,33664,8597
 False,2019-07-18 23:31:13+00:00,Twitter for iPhone,False,Get ready to DM Tweets even faster. This is rolling out to everyone on iOS today.,en,1,0,0,0,0,0.2,327,399,3126,79
 False,2019-07-18 18:38:07+00:00,Twitter Web Client,False,We're testing icons instead of labels within replies. Check it out and let us know what you think! https://t.co/5CBoTZ40Hq,en,1,1,0,0,0,0.0,356,741,1872,887
-False,2019-07-17 15:27:42+00:00,Twitter Web Client,False,🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤,art,0,0,0,0,1,0.0,680,561,5627,136
+False,2019-07-17 15:27:42+00:00,Twitter Web Client,False,🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤🔤,art,0,0,0,0,1,2.0,680,561,5627,136
 False,2019-07-17 15:27:41+00:00,Twitter Web Client,False,"🔤 needs our love. Twitter, do your thing https://t.co/DFjwSU2sYd",en,1,1,0,0,1,0.5,836,731,6402,193
 False,2019-07-16 20:04:55+00:00,Twitter Web Client,False,"Just got a new follower? Starting today, we’ll show their profile in your notifications. Wanna follow them back? Just tap that follow back, girl. https://t.co/VlFTiV15ea",en,1,1,0,0,0,0.03409090909090909,653,551,3477,212
 False,2019-07-15 17:00:06+00:00,Twitter Media Studio,False,"Woah, what’s this? A shiny new https://t.co/q4wnE46fGs for desktop? Yup. IT’S HERE. https://t.co/8y4TMzqBGa",en,1,1,0,0,0,0.13636363636363635,1929,4176,9251,1952
@@ -532,12 +532,12 @@ False,2019-05-24 17:31:01+00:00,Twitter Web Client,False,Tweet an emoji you’ve
 False,2019-05-19 01:08:06+00:00,Twitter Web App,False,Where you?,en,1,0,0,0,0,0.0,5695,10848,39344,6347
 False,2019-05-12 16:09:57+00:00,Twitter for iPhone,False,"To the moms we have, moms we’ve lost, and the moms we’ve chosen.
 #HappyMothersDay",en,1,0,1,1,0,0.0,7458,617,28735,260
-False,2019-05-10 16:00:03+00:00,Twitter Web App,False,🔍,art,0,0,0,0,1,0.0,3499,2587,31866,1625
+False,2019-05-10 16:00:03+00:00,Twitter Web App,False,🔍,art,0,0,0,0,1,2.0,3499,2587,31866,1625
 False,2019-05-06 19:09:05+00:00,Twitter Web App,False,The wait is over 👇😘 https://t.co/v7J6WgRioD https://t.co/3W0witaZtg,en,1,1,0,0,1,0.0,4755,623,11054,2390
 False,2019-05-03 20:00:35+00:00,Twitter Web Client,False,"Starting to see the new https://t.co/fHiPXozBdO? We opened it to more people, and now we're testing two different designs. Let us know what you think, we’d love to hear from you.",en,1,1,0,0,0,0.22727272727272724,308,418,2408,75
 False,2019-05-02 23:42:23+00:00,Twitter for iPhone,False,Tweet hi to someone you don’t know! 👇👉☝️,en,1,0,0,0,1,0.0,4071,11622,30723,5205
-False,2019-04-26 20:27:20+00:00,Twitter Web Client,False,🙏,art,0,0,0,0,1,0.0,5829,2254,33151,1998
-False,2019-04-22 16:02:37+00:00,Twitter Web Client,False,💙🌍,art,0,0,0,0,1,0.0,18574,2205,70812,799
+False,2019-04-26 20:27:20+00:00,Twitter Web Client,False,🙏,art,0,0,0,0,1,2.0,5829,2254,33151,1998
+False,2019-04-22 16:02:37+00:00,Twitter Web Client,False,💙🌍,art,0,0,0,0,1,2.0,18574,2205,70812,799
 False,2019-04-19 20:32:57+00:00,Twitter Web Client,False,"Don’t worry, Tweet happy",en,1,0,0,0,0,0.8,34298,3156,93890,2728
 False,2019-04-16 23:31:38+00:00,Twitter Media Studio,False,"On profile pages, we used to only show someone’s replies, not the original Tweet 🙄 Now we’re showing both so you can follow the conversation more easily! https://t.co/LSBEZYFqmY",en,1,1,0,0,1,0.3541666666666667,749,507,4989,209
 False,2019-04-15 16:26:05+00:00,Twitter Web Client,False,"you: Time to smash my to-do list
@@ -554,7 +554,7 @@ When your crush slides into your DMs:
 _/  \  /\_/  \  /\_/  \   /\_
 ⠀   \/⠀⠀   \/⠀⠀   \/",en,1,0,0,0,1,0.15,15789,1963,64200,2487
 False,2019-04-06 19:53:28+00:00,Twitter Web Client,False,Everywhere 👋 https://t.co/MRbjz8KITj,en,1,1,0,0,1,0.0,758,360,5216,330
-False,2019-04-05 19:34:02+00:00,Twitter Web Client,False,👀 https://t.co/uYSsQ4gODa,und,0,1,0,0,1,0.0,2816,1166,20484,668
+False,2019-04-05 19:34:02+00:00,Twitter Web Client,False,👀 https://t.co/uYSsQ4gODa,und,0,1,0,0,1,2.0,2816,1166,20484,668
 False,2019-04-04 18:04:47+00:00,Twitter Web Client,False,"We want it to be easy to follow and join conversations on Twitter. We’re testing out labels on replies: author, mentioned, and following. If you see them, let us know what you think! https://t.co/L228sMbh75",en,1,1,0,0,0,0.21666666666666667,1347,1384,7529,827
 False,2019-04-03 20:41:03+00:00,Twitter Web App,False,thirsty,en,1,0,0,0,0,0.0,6947,2604,30956,2775
 False,2019-04-03 03:02:29+00:00,Twitter for Android,False,Retweet yourself like no one’s watching,en,1,0,0,0,0,0.0,11480,1217,26229,660
@@ -565,8 +565,8 @@ False,2019-03-28 17:00:19+00:00,Twitter Web App,False,It was dark. You asked for
 False,2019-03-26 00:13:23+00:00,Twitter Web Client,False,Have you ever,en,1,0,0,0,0,0.0,2939,5463,25961,6212
 False,2019-03-25 00:00:35+00:00,Twitter Web Client,False,こんにちは日本!! #桜,ja,1,0,0,0,1,0.0,4646,1575,49599,695
 False,2019-03-20 22:43:50+00:00,Twitter Web App,False,Do you,en,1,0,0,0,0,0.0,19580,9115,67928,15751
-False,2019-03-19 14:44:20+00:00,Twitter Web Client,False,https://t.co/yYoyR8bMxb,zxx,0,1,0,0,0,0.0,7769,679,28286,513
-False,2019-03-17 13:39:24+00:00,Twitter Web App,False,☘️,art,0,0,0,0,1,0.0,5359,1768,32179,773
+False,2019-03-19 14:44:20+00:00,Twitter Web Client,False,https://t.co/yYoyR8bMxb,zxx,0,1,0,0,0,2.0,7769,679,28286,513
+False,2019-03-17 13:39:24+00:00,Twitter Web App,False,☘️,art,0,0,0,0,1,2.0,5359,1768,32179,773
 False,2019-03-17 01:02:18+00:00,Twitter for iPhone,False,"You’re so vain
 You probably think
 This Tweet is about you 🎶",en,1,0,0,0,1,0.0,6325,1113,26957,700
@@ -576,7 +576,7 @@ False,2019-03-12 23:52:07+00:00,Twitter for Advertisers.,False,"Twitter Lite. Sa
 
 Download it from the Google Play Store and learn more below.",en,1,0,0,0,0,0.25,280,136,1833,54
 False,2019-03-12 16:18:12+00:00,Twitter Web Client,False,Oh for Tweet’s sake,en,1,0,0,0,0,0.0,4535,1585,29656,748
-False,2019-03-11 15:02:01+00:00,Twitter Web App,False,💛 @hibillyby https://t.co/bPNfiQLCSS,und,0,1,0,0,1,0.0,6168,405,27172,989
+False,2019-03-11 15:02:01+00:00,Twitter Web App,False,💛 @hibillyby https://t.co/bPNfiQLCSS,und,0,1,0,0,1,2.0,6168,405,27172,989
 False,2019-03-11 15:01:57+00:00,Twitter Web App,False,"Get 'em while they're hot! 
 
 https://t.co/OfwgnVFhHs",en,1,1,0,0,0,0.3125,594,75,4753,15
@@ -588,7 +588,7 @@ False,2019-03-08 17:01:42+00:00,Twitter for iPhone,False,"She’s groundbreaking
 False,2019-03-08 15:00:08+00:00,Twitter Web App,False,"Name a woman who inspires you using #SheInspiresMe! 
 
 Wanna kick us off @ladygaga?",en,1,0,1,1,0,0.0,1767,2864,12537,1602
-False,2019-03-07 16:16:00+00:00,Twitter Web Client,False,https://t.co/HKjQgCPF5s,zxx,0,1,0,0,0,0.0,3278,1422,20724,772
+False,2019-03-07 16:16:00+00:00,Twitter Web Client,False,https://t.co/HKjQgCPF5s,zxx,0,1,0,0,0,2.0,3278,1422,20724,772
 False,2019-03-06 21:09:04+00:00,Twitter Web App,False,"Screenshots of a Tweet
 #SocialMediaIn4Words",en,1,0,1,1,0,0.0,738,726,6918,129
 False,2019-03-04 22:24:50+00:00,Twitter Web App,False,"Been there, Tweeted that",en,1,0,0,0,0,0.0,6139,1127,30217,594
@@ -614,7 +614,7 @@ False,2019-02-20 16:02:16+00:00,Twitter Web Client,False,"We don’t deserve the
 False,2019-02-19 22:13:23+00:00,Twitter Web App,False,a 🧵,qst,1,0,0,0,1,0.0,1930,1591,18268,443
 False,2019-02-15 18:00:13+00:00,Twitter Media Studio,False,Tweeting from the 🚽? @chrissyteigen https://t.co/AHIM4WOhq4,en,1,1,0,0,1,0.0,888,401,9572,207
 False,2019-02-14 19:43:36+00:00,Twitter Web Client,False,"Aaand for those of you on Android, we’re rolling out this experiment to you now.",en,1,0,0,0,0,0.0,238,238,3005,42
-False,2019-02-14 15:00:08+00:00,Twitter Web Client,False,💋,art,0,0,0,0,1,0.0,8061,3202,54726,1743
+False,2019-02-14 15:00:08+00:00,Twitter Web Client,False,💋,art,0,0,0,0,1,2.0,8061,3202,54726,1743
 False,2019-02-13 20:37:21+00:00,Twitter Web App,False,"We’re testing an easier way to check out profiles on iOS without leaving your timeline! Simply tap any @ handle in a Tweet, take a peek, follow, and get right back to it. Let us know what you think! https://t.co/dIUFxI2r4C",en,1,1,0,0,0,0.09523809523809523,1222,1093,7710,432
 False,2019-02-13 18:57:26+00:00,Twitter Web App,False,"Roses are red,
 Twitter is blue,
@@ -648,11 +648,11 @@ False,2019-01-30 17:05:25+00:00,Twitter Web Client,False,"Here's
  (_／",ja,1,0,0,0,1,0.0,24075,2618,85246,1551
 False,2019-01-28 20:06:32+00:00,Twitter Web App,False,One thing you'd Tweet your teenage self,en,1,0,0,0,0,0.0,2111,8139,22681,12853
 False,2019-01-26 17:50:21+00:00,Twitter Web App,False,𝚑𝚒!,qst,1,0,0,0,1,0.0,7096,6123,52496,1550
-False,2019-01-23 17:24:23+00:00,Twitter for iPhone,False,🐐,art,0,0,0,0,1,0.0,10031,8103,61504,9051
+False,2019-01-23 17:24:23+00:00,Twitter for iPhone,False,🐐,art,0,0,0,0,1,2.0,10031,8103,61504,9051
 False,2019-01-22 19:17:24+00:00,Twitter Web App,False,"A new https://t.co/fHiPXozBdO is coming.
 
 Some of you got an opt-in to try it now. Check out the emoji button, quick keyboard shortcuts, upgraded trends, advanced search, and more. Let us know your thoughts! https://t.co/G8gWvdHnzB",en,1,1,0,0,0,0.3736742424242424,3574,2037,16211,1292
-False,2019-01-21 05:47:27+00:00,Twitter Web Client,False,👌💉🐺🌒,art,0,0,0,0,1,0.0,3310,1133,27110,438
+False,2019-01-21 05:47:27+00:00,Twitter Web Client,False,👌💉🐺🌒,art,0,0,0,0,1,2.0,3310,1133,27110,438
 False,2019-01-20 18:50:36+00:00,Twitter Web Client,False,Tweeting...,en,1,0,0,0,0,0.0,7697,3192,53932,1502
 False,2019-01-18 21:46:03+00:00,Twitter Web Client,False,Weekends spark joy,en,1,0,0,0,0,0.8,4984,1051,29323,848
 False,2019-01-17 15:02:49+00:00,Twitter Web Client,False,You. In emojis.,en,1,0,0,0,0,0.0,3850,12947,40876,32312
@@ -663,7 +663,7 @@ False,2019-01-15 01:14:07+00:00,Twitter Web Client,False,brb,qst,1,0,0,0,0,0.0,6
 False,2019-01-11 04:30:07+00:00,Twitter Web Client,False,Go to sleep,en,1,0,0,0,0,0.0,27938,7284,112123,9417
 False,2019-01-08 19:01:34+00:00,Twitter Web Client,False,Hahahahahahahaha,tl,1,0,0,0,0,0.0,45457,7987,146623,25630
 False,2019-01-02 19:25:21+00:00,Twitter Web Client,False,"Work, work, work, work, work, work",en,1,0,0,0,0,0.0,31904,4523,101961,6490
-False,2019-01-01 17:42:35+00:00,Twitter Web Client,False,🐣,art,0,0,0,0,1,0.0,17169,4547,94288,4074
+False,2019-01-01 17:42:35+00:00,Twitter Web Client,False,🐣,art,0,0,0,0,1,2.0,17169,4547,94288,4074
 False,2018-12-30 22:01:03+00:00,Twitter Web Client,False,"❤️ this Tweet to start 2019 with a bang 
 
 #HappyNewYear https://t.co/egW24kOJu7",en,1,1,1,1,1,0.0,34040,4315,237151,4497
@@ -672,11 +672,11 @@ False,2018-12-24 20:00:46+00:00,Twitter Web Client,False,Nice,en,1,0,0,0,0,0.6,1
 False,2018-12-24 20:00:46+00:00,Twitter Web Client,False,Naughty,en,1,0,0,0,0,-0.15000000000000002,10966,1942,59635,2106
 False,2018-12-21 17:12:00+00:00,Twitter Web Client,False,Guess what,en,1,0,0,0,0,0.0,4598,9961,41575,8173
 False,2018-12-20 15:01:00+00:00,Twitter Web App,False,Favorite follow?,en,1,0,0,0,0,0.5,2589,7593,33141,1981
-False,2018-12-20 01:00:09+00:00,Twitter Web App,False,https://t.co/2Wmc2t2wZn,zxx,0,1,0,0,0,0.0,958,521,6639,293
+False,2018-12-20 01:00:09+00:00,Twitter Web App,False,https://t.co/2Wmc2t2wZn,zxx,0,1,0,0,0,2.0,958,521,6639,293
 False,2018-12-18 17:03:34+00:00,Twitter Web App,False,"New on iOS! Starting today, you can tap ✨ to switch between the latest and top Tweets in your timeline. Coming soon to Android. https://t.co/6B9OQG391S",en,1,1,0,0,1,0.29261363636363635,3401,893,9954,1343
 False,2018-12-18 02:31:24+00:00,Twitter Web App,False,First word that pops into your head,en,1,0,0,0,0,0.25,3036,19256,35951,7163
 False,2018-12-06 21:24:45+00:00,Twitter Web App,False,Tweet or it didn’t happen.,en,1,0,0,0,0,0.0,5828,1682,29346,933
-False,2018-12-06 17:08:52+00:00,Twitter Web App,False,👋,art,0,0,0,0,1,0.0,5833,3396,43962,1753
+False,2018-12-06 17:08:52+00:00,Twitter Web App,False,👋,art,0,0,0,0,1,2.0,5833,3396,43962,1753
 False,2018-12-04 21:38:54+00:00,Twitter Web App,False,Retweet?,en,1,0,0,0,0,0.0,41257,3611,44169,2218
 False,2018-12-03 19:08:23+00:00,Twitter Web App,False,"you’re = you are 
 your = belongs to you
@@ -732,7 +732,7 @@ False,2018-10-31 02:04:23+00:00,Twitter Web App,False,"♥️ this Tweet for a #
 https://t.co/7uOn1V73Cc",en,1,1,1,1,1,0.0,15965,916,100164,1688
 False,2018-10-25 15:07:31+00:00,Twitter Web App,False,A poll:,en,1,0,0,0,0,0.0,499,725,3611,130
 False,2018-10-24 21:01:24+00:00,Twitter Web App,False,We just made it easier to Tweet your go-to GIF. This one's ours. 👇 https://t.co/dEMUb9vhpx,en,1,1,0,0,1,0.0,296,327,2080,49
-False,2018-10-24 16:13:09+00:00,Twitter for iPhone,False,💙,art,0,0,0,0,1,0.0,6672,3222,35247,2525
+False,2018-10-24 16:13:09+00:00,Twitter for iPhone,False,💙,art,0,0,0,0,1,2.0,6672,3222,35247,2525
 False,2018-10-23 17:49:36+00:00,Twitter Web App,False,"(•_•)
 &lt;)   )╯You are
  /    \
@@ -766,7 +766,7 @@ False,2018-10-10 23:33:19+00:00,Twitter Web App,False,Sexy Edit Button https://t
 False,2018-10-10 16:01:42+00:00,Twitter Web App,False,Is this thing on?,en,1,0,0,0,0,0.0,1713,1995,15825,585
 False,2018-10-09 16:03:52+00:00,Twitter Web App,False,Who’s your #TwitterCrush?,en,1,0,1,1,0,0.0,1766,5955,10451,5261
 False,2018-10-08 19:45:03+00:00,Twitter Web Client,False,"If you’re reading this Tweet, you’re winning.",en,1,0,0,0,0,0.5,10671,3424,48837,1434
-False,2018-10-04 15:04:07+00:00,Twitter Web App,False,#tbt https://t.co/xuU2WLshTl,qme,0,1,1,1,0,0.0,5152,611,15023,826
+False,2018-10-04 15:04:07+00:00,Twitter Web App,False,#tbt https://t.co/xuU2WLshTl,qme,0,1,1,1,0,2.0,5152,611,15023,826
 False,2018-10-03 19:30:15+00:00,Twitter Web App,False,?!,qst,1,0,0,0,0,0.0,4130,3063,15401,1744
 False,2018-10-03 01:00:06+00:00,Twitter Web App,False,You’re stranded on a desert island. Your phone has charge for just one final Tweet. Go!,en,1,0,0,0,0,0.0,2678,12379,21844,24184
 False,2018-10-01 20:02:52+00:00,Twitter Web App,False,We can't believe this website is free,en,1,0,0,0,0,0.4,23593,6869,89709,13721
@@ -778,7 +778,7 @@ False,2018-09-20 00:57:43+00:00,Twitter Web App,False,Your go-to gif. Show us yo
 False,2018-09-19 15:22:20+00:00,Twitter Web App,False,"Tweet, tweet.",fr,1,0,0,0,0,0.0,7441,3168,38853,1308
 False,2018-09-18 18:44:26+00:00,Twitter Web App,False,"Well, hello. https://t.co/LMULVgpe30",en,1,1,0,0,0,0.0,153,183,2126,27
 False,2018-09-18 17:32:23+00:00,Twitter Web App,False,".@jack’s very first drawing of us back in 2005. Love ya, Dad! https://t.co/fTtMUYMkDu",en,1,1,0,0,0,0.31666666666666665,1219,183,5799,196
-False,2018-09-18 00:46:45+00:00,Twitter Web App,False,👀,art,0,0,0,0,1,0.0,5212,3430,26758,1866
+False,2018-09-18 00:46:45+00:00,Twitter Web App,False,👀,art,0,0,0,0,1,2.0,5212,3430,26758,1866
 False,2018-09-17 04:29:13+00:00,Twitter Web App,False,Who's up?,en,1,0,0,0,0,0.0,6242,5729,43986,1409
 False,2018-09-14 19:18:13+00:00,Twitter Web Client,False,Tweet the meaning behind your Twitter handle. We'll start. We're Twitter.,en,1,0,0,0,0,-0.4,4710,18244,35046,75349
 False,2018-09-13 20:21:31+00:00,Twitter Web Client,False,"We’re making it easier to find and watch live broadcasts. Now, when accounts you follow go live, the stream will appear right at the top of your timeline.
@@ -859,7 +859,7 @@ False,2018-07-05 23:09:44+00:00,Twitter Web Client,False,"3️⃣ pieces of #Adv
 🔍 Explore: Search anything and everything. Join the conversation. 
 💙 Engage: Like and Retweet the Tweets you enjoy. Try it!
 ✔️ Follow: Love 🎾? 🎨? 🐶? There are Twitter accounts for every interest, so start following.",en,1,0,1,1,1,0.3333333333333333,305,131,1409,55
-False,2018-07-01 20:43:40+00:00,Twitter Web Client,False,💙💙💙 https://t.co/xqNuKl4mOL,und,0,1,0,0,1,0.0,135,127,1403,18
+False,2018-07-01 20:43:40+00:00,Twitter Web Client,False,💙💙💙 https://t.co/xqNuKl4mOL,und,0,1,0,0,1,2.0,135,127,1403,18
 False,2018-06-28 17:14:16+00:00,Twitter Web Client,False,"Interested in how this affects political advertising on Twitter? 
 
 Read more about our Political Campaigning Policy. 👇
@@ -967,7 +967,7 @@ False,2018-03-23 12:21:55+00:00,Twitter Web Client,False,"Meet the students and 
 Tweet your questions using #StudentsForChange. https://t.co/emvrA1e399",en,1,1,1,1,0,0.5,508,146,1481,51
 False,2018-03-21 14:50:38+00:00,Twitter Web Client,False,"#LoveTwitter
 
-https://t.co/0p0XwEN7jR",qme,0,1,1,1,0,0.0,221,73,980,28
+https://t.co/0p0XwEN7jR",qme,0,1,1,1,0,2.0,221,73,980,28
 False,2018-03-21 14:50:38+00:00,Twitter Web Client,False,"&lt;REPLY TO PERSON ONE&gt; &lt;TWEET COPY GOES IN HERE&gt; &lt;WEBSITE LINK GOES HERE&gt; &lt;TWITPIC PICTURE LINK&gt; &lt;TAG PERSON ONE&gt; &lt;TAG PERSON TWO&gt; &lt;TAG PER... 😡
 
 #LoveTwitter
@@ -1026,7 +1026,7 @@ False,2018-03-08 17:05:29+00:00,Twitter Web Client,False,"We asked celebrities o
 #InternationalWomensDay
 
 https://t.co/Di3dhCaPPV",en,1,1,1,1,0,0.0,98,31,609,7
-False,2018-03-08 14:01:46+00:00,Twitter Web Client,False,https://t.co/HxtJw1nZZN,zxx,0,1,0,0,0,0.0,97,63,586,10
+False,2018-03-08 14:01:46+00:00,Twitter Web Client,False,https://t.co/HxtJw1nZZN,zxx,0,1,0,0,0,2.0,97,63,586,10
 False,2018-03-07 20:00:15+00:00,Twitter Web Client,False,"The sun has risen on #InternationalWomensDay in Australia. 🌏
 
 Who is a woman that inspires you? 👇
