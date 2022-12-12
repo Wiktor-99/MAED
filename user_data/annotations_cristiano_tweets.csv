@@ -1,4 +1,22 @@
 is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Sports Event,2022 FIFA World Cup,Sports Event,Morocco vs Portugal,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.8297, 'Mundial', 'Other']"
+False,Sports Event,2022 FIFA World Cup,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,2022 FIFA World Cup,Sports League,FIFA Men's World Cup,"[0.9349, 'Portugal', 'Place']"
+False,Sports Event,2022 FIFA World Cup,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,2022 FIFA World Cup,Sports League,FIFA Men's World Cup,
+False,Sports Event,2022 FIFA World Cup,Sports Event,Republic of Korea vs Portugal,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.896, 'Portugal', 'Place']"
+False,Sports Event,2022 FIFA World Cup,Sports Event,Republic of Korea vs Portugal,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.5332, 'Portugal', 'Place']"
+False,Sports Event,2022 FIFA World Cup,Sports Event,Portugal vs Uruguay,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.5753, 'Mundial', 'Other']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Sports Event,2022 FIFA World Cup,Sports Event,Portugal vs Ghana,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.6652, 'Vitória', 'Organization']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,
+False,Person,Cristiano Ronaldo,Business Taxonomy,Financial Services Business,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Entities [Entity Service],Binance Coin cryptocurrency,Brand,Binance,"[0.8731, 'NFT', 'Other']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Portugal,"[0.966, 'Portugal', 'Place']"
+False,Person,Cristiano Ronaldo,Brand Vertical,Retail industry,Entities [Entity Service],Apparel/Accessories - Retail,Business Taxonomy,Sports & Fitness Business,Business Taxonomy,"Textile, Apparel & Luxury Good Business",Brand,Louis Vuitton,"[0.5557, 'Victory', 'Other']"
+False,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Business Taxonomy,Sports & Fitness Business,Business Taxonomy,Travel & Transportation Business,Athlete,Cristiano Ronaldo,"[0.9675, 'Times Square', 'Place']"
+False,Sports Event,2022 FIFA World Cup,Sports Event,Portugal vs Nigeria,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,"[0.9323, 'Qatar', 'Place']"
+False,Sports Event,Portugal vs Nigeria,Person,Cristiano Ronaldo,Sport,Soccer,Sports Team,Portugal,Sports League,International - Soccer,Sports League,Int. Friendly Games,"[0.6271, 'Alvalade', 'Other']"
+False,Person,Cristiano Ronaldo,Business Taxonomy,Financial Services Business,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Entities [Entity Service],Binance Coin cryptocurrency,Brand,Binance,"[0.7575, 'NFT', 'Other']"
 False,Person,Cristiano Ronaldo,Business Taxonomy,Gaming Business,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,
 False,Person,Cristiano Ronaldo,Business Taxonomy,Financial Services Business,Business Taxonomy,Sports & Fitness Business,Business Taxonomy,Technology Business,Entities [Entity Service],Binance Coin cryptocurrency,Brand,Binance,"[0.7535, 'NFT', 'Other']"
 False,Person,Cristiano Ronaldo,Business Taxonomy,Sports & Fitness Business,Athlete,Cristiano Ronaldo,Unified Twitter Taxonomy,Soccer,Unified Twitter Taxonomy,Cristiano Ronaldo,Unified Twitter Taxonomy,Sports,"[0.4471, 'Selecção Nacional', 'Other']"
@@ -828,21 +846,3 @@ False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.7701, 'CR7'
 False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
 False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.9921, 'Madeira', 'Place']"
 False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Place,Lisbon,Athlete,Cristiano Ronaldo,Entities [Entity Service],Travel,Interests and Hobbies Category,Hospitality,Interests and Hobbies,Hotel/Motel,"[0.9802, 'Lisbon', 'Place']"
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Sports Team,Real Madrid CF,Athlete,Cristiano Ronaldo,,,,,,,"[0.9613, 'Real Madrid', 'Organization']"
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.5178, 'Air Max 97', 'Other']"
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Entities [Entity Service],Sports/Outdoor - Fashion,Brand,Nike,Athlete,Cristiano Ronaldo,,,,,"[0.4216, 'Air Max 97', 'Other']"
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.4813, 'CR7Challenge', 'Other']"
-False,Person,Cristiano Ronaldo,Athlete,Cristiano Ronaldo,,,,,,,,,"[0.6271, '7egend', 'Other']"

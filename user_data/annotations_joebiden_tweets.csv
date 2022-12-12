@@ -1,4 +1,28 @@
 is Elon Musk,context annotations domain 0,context annotations entity 0,context annotations domain 1,context annotations entity 1,context annotations domain 2,context annotations entity 2,context annotations domain 3,context annotations entity 3,context annotations domain 4,context annotations entity 4,context annotations domain 5,context annotations entity 5,annotations
+False,Person,Joe Biden,Person,John Fetterman,Person,John Fetterman,Events [Entity Service],New Years Eve,Events [Entity Service],2022 United States midterm elections,Politician,Joe Biden,"[0.9668, 'Pennsylvania', 'Place']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.7835, 'Butch-Lewis Act', 'Other']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.6291, 'American Rescue Plan', 'Other']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.807, 'Butch-Lewis Act', 'Other']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.9309, 'United States', 'Place']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Political Body,United States Congress,Unified Twitter Taxonomy,Joe Biden,"[0.9825, 'Georgia', 'Place']"
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,"[0.4297, 'IBEW', 'Organization']"
+False,Person,Joe Biden,Politician,Joe Biden,Interests and Hobbies,Unemployment Rate,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Global Economy,Unified Twitter Taxonomy,Politics,
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,"[0.6675, 'Georgia Senate', 'Organization']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.3824, 'Bylaws', 'Other']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.7582, 'Democratic Party', 'Organization']"
+False,Person,Joe Biden,Politician,Joe Biden,Interests and Hobbies,Inflation,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Global Economy,Unified Twitter Taxonomy,Politics,
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Political Body,United States Congress,Unified Twitter Taxonomy,Joe Biden,"[0.7949, 'Georgia Senate', 'Organization']"
+False,Person,Joe Biden,Politician,Joe Biden,Brand Vertical,Transportation,Business Taxonomy,"Automotive, Aircraft & Boat Business",Business Taxonomy,Technology Business,Business Taxonomy,Travel & Transportation Business,
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Political Body,United States Congress,Unified Twitter Taxonomy,Joe Biden,"[0.9808, 'Georgia', 'Place']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Political Body,United States Congress,Unified Twitter Taxonomy,Joe Biden,"[0.9732, 'Georgia', 'Place']"
+False,Person,Joe Biden,Person,Raphael Warnock,Politician,Joe Biden,Politician,Raphael Warnock,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,"[0.3628, 'tor War', 'Person']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,Unified Twitter Taxonomy,Industries,
+False,Person,Joe Biden,Events [Entity Service],Thanksgiving Day ,Politician,Joe Biden,Holiday,Thanksgiving Day ,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,
+False,Person,Joe Biden,Events [Entity Service],Thanksgiving Day ,Politician,Joe Biden,Holiday,Thanksgiving Day ,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,Interests and Hobbies Vertical,Society,"[0.4701, 'Act', 'Other']"
+False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Global Economy,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political issues,
 False,Person,Joe Biden,Person,Donald Trump,Politician,Joe Biden,Politician,Donald Trump,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Donald Trump,"[0.9603, 'Donald Trump', 'Person']"
 False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.7398, 'Bipartisan Infrastructure Law', 'Other']"
 False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.761, 'Bipartisan Infrastructure Law', 'Other']"
@@ -682,25 +706,4 @@ False,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,COVID-19,Unified Twit
 False,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,COVID-19,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,"[0.9913, 'COVID-19', 'Other']"
 False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
 False,Person,Kamala Harris,Politician,Kamala Harris,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Kamala Harris,Unified Twitter Taxonomy,Political figures,Person,Joe Biden,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.9085, 'America', 'Place']"
-False,News Vertical,Political News,News Vertical,Business news,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political issues,Unified Twitter Taxonomy,Job Growth in the United States,Person,Joe Biden,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,COVID-19,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,
-False,Person,Kamala Harris,Politician,Kamala Harris,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Kamala Harris,Unified Twitter Taxonomy,Political figures,Person,Joe Biden,
-False,Person,Martin Luther King Jr.,Person,"Curtis M. Loftis, Jr.",Events [Entity Service],Martin Luther King Jr. Day,Events [Entity Service],Martin Luther King Jr. Day,Politician,Martin Luther King Jr.,Politician,"Curtis M. Loftis, Jr.","[0.9504, 'Martin Luther King', 'Person']"
-False,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,COVID-19,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,"[0.9912, 'COVID-19', 'Other']"
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.6189, 'Bipartisan Infrastructure Law', 'Other']"
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.7212, 'Bipartisan Infrastructure Law', 'Other']"
-False,Ongoing News Story,COVID-19,Unified Twitter Taxonomy,COVID-19,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.984, 'Jim Crow', 'Person']"
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.9748, 'John Lewis', 'Person']"
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,"[0.9016, 'America', 'Place']"
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
-False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,Events [Entity Service],"South Africa’s former president, FW de Klerk, has died at 85",
-False,Unified Twitter Taxonomy,Economic Issues in the United States,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,"[0.9461, 'America', 'Place']"
 False,Person,Joe Biden,Politician,Joe Biden,Unified Twitter Taxonomy,Joe Biden,Unified Twitter Taxonomy,Politics,Unified Twitter Taxonomy,Political figures,,,
